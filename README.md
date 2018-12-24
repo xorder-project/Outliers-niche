@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Outliers' Niche 异类生境
 
-You can use the [editor on GitHub](https://github.com/xorder-project/outliers_niche/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+定位 （每日5min)  ：outliers 的**playground**：站住并Buildl！🏄 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 0.链上数据会说话
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 甜甜圈目前监控btc和eth数据，hashrate衡量挖矿的难度；挖矿收入衡量矿工的收益；总转账费用及转账笔数，衡量链上转账的活跃度；未确认交易数则是衡量区块链的拥堵程度；gas平均值，衡量eth区块链的转账成本。
 
-```markdown
-Syntax highlighted code block
+### 1.核心项目进展
 
-# Header 1
-## Header 2
-### Header 3
+- 甜甜圈目前监控 ETH 和EOS项目，其他项目之后增加
 
-- Bulleted
-- List
+### 2.热锅上的项目🔥
 
-1. Numbered
-2. List
+- 甜甜圈会推荐前线的一些项目给到大家！
 
-**Bold** and _Italic_ and `Code` text
+### 3.Dapp跟踪
 
-[Link](url) and ![Image](src)
-```
+- 甜甜圈目前会跟踪 `Dappreddar`,`Dappreview`和`Stateofthedapps`三个网站
+- [Dappradar](https://dappradar.com/)
+- [Dappreview](https://dapp.review/)
+- [Stateofthedapps](https://www.stateofthedapps.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 支持及联系
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xorder-project/outliers_niche/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+通证甜甜圈🍩, XOrder.ai 欢迎多提宝贵意见! [邮件](qchen@xorder.ai)
