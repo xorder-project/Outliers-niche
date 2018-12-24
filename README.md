@@ -1,4 +1,4 @@
-# Outliers' Niche 异类生境
+## Outliers' Niche 异类生境
 
 定位 （每日5min)  ：outliers 的**playground**：站住并Buildl！🏄 
 
@@ -32,9 +32,6 @@
 
 <div align=left>
 ### 0.链上数据会说话
-- **PIN一周说明**：甜甜圈新增链上数据汇总，目前监控btc和eth数据，hashrate衡量挖矿的难度；挖矿收入衡量矿工的收益；总转账费用及转账笔数，衡量链上转账的活跃度；未确认交易数则是衡量区块链的拥堵程度；gas平均值，衡量eth区块链的转账成本。
-
-<div align=center>
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
@@ -52,7 +49,7 @@
 |[未确认交易数](https://etherscan.io/chart/pendingtx)| 6.7万 | 略升|
 |[gas的平均值](https://ethgasstation.info/)| 3.1 gwei | 上升|
 
-<div align=left>
+
 
 ### 1.核心项目进展
 
