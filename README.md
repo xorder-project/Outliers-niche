@@ -75,6 +75,7 @@ ECAF - FIRST LOST KEY CHANGE RULING](https://eosauthority.com/approval/view?scop
 
 ### 4.近期深度文章
 - **Pin一周**[能够让加密货币有价值的8种框架](https://www.tonysheng.com/8-frameworks-for-crypto-2018):这篇文章介绍了8种目前比较靠谱的框架，包括收益和可用性、信仰和使用者、价格飞轮等等，很有参考价值。
+- [比特币是一种可自动执行的社会契约](https://mp.weixin.qq.com/s/Ki7f6enZ9goeENYoR1J-xg)从社会契约的角度去展开讨论比特币来发现其对我们的价值。
 - [闪电网络的爆发，能否在2019年为比特币带来牛市？](https://www.8btc.com/article/334284): 公司曾在9月做过分享，当时闪电网络节点数为3000+，锁定的比特币数为110+。目前一个季度过去，节点数突破4000，锁定的比特币数突破500.
 - [深度丨“营销大师“孙宇晨，你是魔鬼吗？](https://mp.weixin.qq.com/s/KgkgrR5q1cID_Etf0C2_Sw): 有数据显示，每次孙宇晨在推特上营销和喊单，波场币的币价平均涨幅为23%，不过大部分是2017年12月贡献的。孙“知行合一”的经验值得花时间复盘。
 - [区块链MMO游戏该如何设计Token经济？](https://mp.weixin.qq.com/s/jKUjUazGLN_oFL581X0nfA): 困扰传统网络游戏经济系统设计的两大顽疾：工作室（代练）和道具通胀，此游戏通过以下三种策略解决了这个问题：1.核心道具资源以ETH计价和买入；2.砍掉玩家的行为-成长机制；3.通过加入随机，使升级及进化改为开宝箱/洗宝宝模式，增加消耗，降低了通胀。
