@@ -71,7 +71,7 @@
 
 ### 4.近期深度文章
 - [加密 2018 启示录：尽管这个领域有很多「专家」，但没人知道接下来发生什么](https://www.chainnews.com/articles/601431584309.htm): 我们看看世界各地在加密货币领域发生的一些趋势的变化。
-- [2018年区块链优质文章大全（外文）|亏快链日记#元旦特别篇](https://mp.weixin.qq.com/s/Mh4WoZ2LesQiZU6zIP-_lw): 岁末年初，总有一些人会复盘整年，这篇文章总结了很多优质文章，值得收藏！
+- [2018年区块链优质文章大全](https://mp.weixin.qq.com/s/Mh4WoZ2LesQiZU6zIP-_lw): 岁末年初，总有一些人会复盘整年，这篇文章总结了很多优质文章，值得收藏！
 - [你好，crypto 2019](https://mp.weixin.qq.com/s/iV0pV61M2_kZqxWWQJn3ZQ): 链闻的2018总结。
 - [别人在骂，你就买入！](https://mp.weixin.qq.com/s/YnTuTqicCK2YULU2fb657g): 也算是年终总结，作者作为上一轮牛市参与者，讲解了些行业内幕。其中关于喊多喊空和做空做多的对比、分类值得参考。
 - 应用:一个项目方如何展示他们的一年的成果呢？3box团队是这样做的: [3box 2018年回顾和2019年展望](https://medium.com/3box/2018-year-in-review-and-2019-preview-8a6f724e9130)，总结和展望也是一次很好的promotion，甜甜圈建议初创团队都可以参考一下☺️
