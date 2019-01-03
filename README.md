@@ -32,7 +32,7 @@
 #### ETH:
 - **PIN** [Constantinople 主链硬分叉会在 区块 #7080000, 估计时间在2019年1月**15**日](https://twitter.com/peter_szilagyi/status/1071052095535628288) 
 
-- Vitalik :2019年的开篇必须点赞Vitalik在reddit上的对于这篇文章 [对于Vitalik POS设计的哲学的批评](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)的回复。对于文章从开始到最后的所有观点进行了回复,记住是**逐一回复**。 核心观点上虽然我们认为Pow优越，但是那是文化上的！POS是一个尝试并值得做！甜甜圈就这点上向Vitalik致敬！
+- Vitalik :2019年的开篇必须点赞Vitalik在reddit上的对于[Tuur质疑以太坊的回复](https://www.reddit.com/r/ethereum/comments/aac4hr/tuurs_criticism_discussion_thread/ecs7sle/), [这里有原文加回复](https://www.reddit.com/r/ethtrader/comments/aan5jk/vitaliks_response_to_tuur/?)。对于文章从开始到最后的所有观点进行了回复,记住是**逐一回复**。 核心观点上虽然我们认为Pow优越，但是那是文化上的！POS是一个尝试并值得做！甜甜圈就这点上向Vitalik致敬！
 
 > "Many of the objections to PoS in principle [and probably sharding too] are cultural, not technical ("weak subjectivity is bad") and it's possible to deal with that" -- Vitalik Buterin
 
