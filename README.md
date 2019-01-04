@@ -86,7 +86,7 @@
 - [复盘区块链八大行业巨头 2018 的「是非成败」](https://www.chainnews.com/articles/040366465098.htm): 八大巨头实际上也是目前币圈市场明面上的“庄家”，其公开观点对市场走向有明显的影响。目前来看，一整年下来比特大陆和火币交易所地位和影响力下滑，Bitmex和币安影响力上升。
 -  [Would Bitcoin’s mass adoption fundamentally transform the financial system?](https://blog.bitmex.com/thetimes/): Bitmex的CEO对比了银行信贷系统、物理现金和数字货币，不少内容是作者16年17年写的东西的整合。
 - [Introducing Realized Capitalization](https://coinmetrics.io/realized-capitalization/) Coinmetrics 介绍了一种新的估值方法，叫做实现市值，可以学习一下。
-- [纪念比特币主网上线10周年](https://www.longhash.com/news/bitcoins-10year-anniversary-the-block-reward-has-halved-twice):目前一共减半了两次。下一次减半在2010年5月25日左右，期待~
+- [纪念比特币主网上线10周年](https://www.longhash.com/news/bitcoins-10year-anniversary-the-block-reward-has-halved-twice):目前一共减半了两次。下一次减半在2020年5月25日左右，期待~
 🎂🎂🎂🎂🎂**十周年Bitcoin生日快乐**🎂🎂🎂🎂🎂
 
 通证甜甜圈🍩, XOrder.ai 欢迎多提宝贵意见! [邮件](qchen@xorder.ai)
