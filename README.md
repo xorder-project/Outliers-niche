@@ -1,6 +1,6 @@
 
 
-## Outliers' niche 另类生境 2019-1-9 第25期
+## Outliers' niche 另类生境 2019-1-11 第26期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 定位 （每日5min)  ：outliers 的**playground**：站住并Buildl！🏄 
@@ -10,20 +10,20 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 3938 万 TH/s| 持平|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 553 万美元 | 下降|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 24 BTC | 上升|
-| [未确认交易数](https://www.blockchain.com/zh-cn/btc/unconfirmed-transactions) | 1 千笔 |下降|
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4581 万 TH/s| 上涨|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 837 万美元 | 上涨|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 24 BTC | 持平|
+| [未确认交易数](https://www.blockchain.com/zh-cn/btc/unconfirmed-transactions) | 8.5 千笔 |上涨明显|
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 185TH/s| 持平|
-|[转账笔数](https://etherscan.io/chart/tx)|49万|下降|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| 313 eth| 略升|
-|[未确认交易数](https://etherscan.io/chart/pendingtx)| 3.3万 | 持平|
-|[gas 中位数](https://ethgasstation.info/)| 6.3 gwei | 下降 |
-|[gas 费用(5分钟内可确认)](https://ethgasstation.info/)| 1.1 gwei | 下降|
+|[Hashrate](https://etherscan.io/chart/hashrate)| 186TH/s| 持平|
+|[转账笔数](https://etherscan.io/chart/tx)|58万|上涨|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| 365 eth| 上升|
+|[未确认交易数](https://etherscan.io/chart/pendingtx)| 3.4万 | 持平|
+|[gas 中位数](https://ethgasstation.info/)| 6.3 gwei | 持平 |
+|[gas 费用(5分钟内可确认)](https://ethgasstation.info/)| 1.2 gwei | 持平|
 
 
 
@@ -31,8 +31,6 @@
 
 ### 1.核心项目进展
 #### ETH:
-- **收听ETH进展**: EtherHub 的持续更新的收音项目[Into the Ether](https://podcast.ethhub.io/) 甜甜圈🍩觉得特别赞，尤其是其中的`Weekly Recap`，不单单对于Ethereum做了一个小结，同时也有一些联系和采访。值得长期收听呢！
-
 - **Pin一周** [Constantinople 硬分叉必须知道的](https://www.reddit.com/r/ethereum/comments/abv70c/heres_a_summary_of_the_constantinople_update/): 白驹过隙，eth马上就要硬分叉了，这篇reddit总结了这次君士坦丁堡硬分叉的升级内容，引入PoW+PoS混合共识机制,升级提案如下：
 	- `EIP145`，提案人Alex Beregszaszi 和 Pawel Bylica，一种更有效的以太坊信息处理方案(逐位移动),让智能合约消耗更少的gas;
 	- `EIP1052`，提案人以太坊core开发人员Nick Johnson和Bylica，使得智能合约间的验证更容易,优化以太坊网络大规模代码执行;
@@ -47,11 +45,15 @@
 	- 2019-08-14: Ropsten, Görli 测试链硬分叉
 	- 2019-10-16: Instanbul 主链硬分叉
 
-- [EIP1683: URL with asset and onboarding functionality](https://github.com/ethereum/EIPs/issues/1683): 这个提案需要解决的问题是由于对于新用户，首先需要自己建立一个ETH地址，然后才能参与到ETH的转账中，这个无形增加了Dapp的使用门槛，那么能否在二维码扫描的时候直接创建一个以太坊地址甚至是ENS？这个提案人将其称为`linkdrops`,就如`airdops`一样。甜甜圈觉得这个提案特别落地，确实钱包的使用问题将人们使用Dapp的热情减少了一大半，甜甜圈也发现有一些Dapp项目方会为用户提供一键生成地址的功能，但是如果没有一个协议能够保证安全，使用这个临时地址真的很不安全。甜甜圈建议持续跟踪这个提案。👍 
+- **KOL chemistry**:[Vitalik:期望将Constantinople硬分叉改名为升级](https://twitter.com/VitalikButerin/status/1083450179347394560)，Vitalik 一早twitter问给以太坊社区说Constantinople 硬分叉容易造成误解，不如参考Zcash社区，将这次名称改为 Constantinople 网络升级(Constantinople network upgrade),然后社区有完全赞同的，参考[zcash路线图](https://z.cash/blog/the-zcash-network-upgrade-pipeline/), 但是也有KOL站出来表示反对，总体的意思是我们是否需要为了避免社区小白的可能的误解来讲本来清楚的技术名词变得含糊不清，硬分叉和升级在技术上是明显可分的，就是升级一般可以向后兼容，而硬分叉则完全不想后兼容，包括Aragon的John Light在内持有这个观点：
 
-- [10个NFT的用例](https://twitter.com/flynnjamm/status/1078707734693007361?s=21): Brian Flynn 为我们列举了10个NFT的用例，其中包括`wyre`作为kyc的证明,`Zastrin`作为线上学习课程的通行证和Gitcoin开发的`Kudos`在我荣誉🎖。这些案例都显示着数字资产正悄悄改变着我们的认识价值的方式。 
+> "it is totally orwellian（奥威尔式） to me. framing it as an upgrade is coercive. I've always hated that. if you have to ruin backwards compatibility, show your reasoning for it, don't sugarcoat the thing in euphemisms." -- @nic__carter  
 
-- [Awesome Layer2](https://github.com/Awesome-Layer-2/Awesome-Layer-2): 上周为大家推荐了Awesome layer2，这期再次安利！这个汇总特别赞，其中期望囊获所有项目，实际上现在已经非常长了。。。如果小伙伴发现还有项目不在里面，也可以贡献哈，值得珍藏！💖
+- ConsenSys: [Joe Lubin: 下一个杀手级应用就是杀手级的生态系统](https://media.consensys.net/joe-lubin-the-next-killer-app-is-a-killer-ecosystem-1a5f789c82b4), ConsenSys的10号的这篇blog真实的表达了ConsenSys作为以太坊的核心，所期望为 Web 3.0做的所有努力。之前我们会说一个世界计算机，太宏伟，可是Ethereum真的在朝着这方向进发， 甜甜圈🍩为之打call💪
+
+> Ethereum is emerging as one of the foundational components of a world computer — a web 3 flavored constellation of interoperating protocols. Web 3, the decentralized world wide web, will consist of many decentralized protocols: for trusted transactions, automated agreements, smart software objects, storage, bandwidth, heavy compute, identity, reputation, proof of location, legally enforceable agreements, certificates, resource and asset tokenization like kWh, equities, real estate, and more.  -- Joe Lubin
+
+- [EIP1688: Improve feeds available from the EIPs website](https://github.com/ethereum/EIPs/issues/1688): 这个提案特别有趣，这是对于EIP呈现方式和工作流的一个改进。我们看到EOS目前以论坛的形式来提proposals，但是以太坊现在需要直接在github上提，同时提案被`jekyll`以静态页面的方式生成，当时这样查询到所有EIP提案的状态就变得比较困难，提案者bmann建议有一个全局的feed能够将EIPs和当下的状态全部呈现出来，甜甜圈🍩也是这样想的，点赞👍 
 
 
 
@@ -59,41 +61,40 @@
 
 - **PIN最后一周**EOS 年度总结: [A growing ecosystem of users](https://twitter.com/block_one_/status/1075657757578018816): 这里有一幅完整的EOS生态的图，期望大家喜欢❤️
 
-- [EOS 硬件钱包Metro](https://twitter.com/eosnewyork/status/1082288889669304321): EOS New York 最近开发了一款专门为Dapp的硬件钱包，取名Metro，EOS的新干线？哈哈~
+- [Transit API: 为Dapp签名服务](https://medium.com/@boscorebos/as-an-active-eos-bp-how-does-eos-nation-see-bos-e2603d4e5194)：在EOS New York超级节点看来，用户体验是最重要的，同时Dapp是目前EOS最重要的优势，那么就要服务好用户，可是目前最大的问题是钱包体验特别不好，同时EOS的签名系统也有很多问题，所以EOS New York整合了钱包商，包括著名的Scatter、MeetOne、Ledger等，将API统一，这个工作非常重要，为EOS New York打call!💪
 
-- [EOS 上的金融协议系统 fsp](https://www.fsp.network/): EOS 期望打造一个大的体系，目前ETH上Defi，那么EOS上是不是应该有相应的金融系统呢？自然就有人做了，这个[fsp](https://medium.com/fspnetwork/introducing-financial-securities-protocol-9d21bd66a0f8) 项目的核心观点是资产自治(Asset self-sovereignty)，国家货币是基于国家主权信任背书的，那么是否能够让这个背书不存在呢？甜甜圈🍩认为，这个背书永远都是要存在的，这里只不过是想做一个EOS社区背书而已。你怎么看呢？
+> User Experience is king. -- EOS New York
 
-- [EOSX](https://www.eosx.io/): 这是EOS Asia出品的一款EOS浏览器，我们应该记得ETH 在浏览器中的创新，对于EOS社区来讲，确实需要一款能够更Realtime的同时更insightful的浏览器。作为创始人就是前端大咖的 EOS Asia 社区，自然期望在这个领域展露身手，EOSX实现了 realtime的数据更新，同时整合了EOS mainnet, Worbli, Telos, the Kylin testnet, the Jungle testnet。甜甜圈🍩试用下来，应该说效果不错~ 
+- Fork链:[BOS: 商业EOS](https://www.boscore.io/) 这个项目很特别，基本聚拢了这个EOS 中国生态的所有知名节点和项目，包括EOS Asia、引力区、MeetOne，同时目前宣布[1月17日主链上线](https://twitter.com/atticlab_it/status/1083391978446995457)，有趣的是这个项目主页并没有团队，反而主网上线是由[Atticlab](https://atticlab.net/)twitter发布的，Atticlab是一家技术公司，其中的关联值得调查。
 
-- [EOS 治理: EOSIO.Fortum部署智能合约](https://eosauthority.com/approval/view?scope=eoscanadaops&name=deployforum&lnc=en): 对于EOSIO的论坛，需要不是一个智能合约，目前在投票阶段。
+
+- [EOS 治理: EOSIO.Fortum部署智能合约](https://eosauthority.com/approval/view?scope=eoscanadaops&name=deployforum&lnc=en): 对于EOSIO的论坛，需要不是一个智能合约，目前在投票阶段,几个核心超级节点都已经投出支持票，EOS Canada更在为之[宣传](https://twitter.com/EOS_Canada/status/1082642979863564288), 目前投票情况已经通过，我们就等候部署吧！ 
 
 
 ### 2.热锅上的项目🔥 
-- **Pin两期**:[Beam](https://www.beam.mw/): 上期的报告提到了Grin这个项目，我们提到Grin的时候就不得不提到Beam，因为他们都是利用mimblewimble这个特殊的共识机制来构建的一个项目。两者的区别是Beam的商业化倾向相对较明显，期望通过与机构合作，进行融资等方式来进行项目。而Grin的社区属性较强，不接受投资等。**特别提醒Beam 北京时间1月3日22:00。已经开始挖矿**
-搜集了几篇文章，帮助大家更好的认识Beam这个项目。
+- **Pin**:[Grin](https://grin-tech.org/)&[Beam](https://www.beam.mw/): 利用mimblewimble共识机制的两个兄弟项目。两者的区别是Beam的商业化倾向相对较明显，期望通过与机构合作，进行融资等方式来进行项目。而Grin的社区属性较强，不接受投资等。**特别提醒Beam已经在北京时间1月3日主网上线，Grin将于1月15日，23:00 (11:00 PM)左右主网上线**
+这是Curated list，帮助大家更好的认识Grin、Beam这个项目。
 	- [Grin vs. BEAM, a Comparison](https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html)
-	- [Beam Emission Schedule](https://medium.com/beam-mw/mimblewimble-emission-schedule-215551948259)
-	- [Grin刷屏了，它的亲兄弟Beam为啥这么冷清？](https://mp.weixin.qq.com/s?__biz=MzA4MzE1MzQ3MA==&mid=2450141375&idx=2&sn=08d6b4f054ffc2570f0047c36402a009&chksm=880457eebf73def8ac9cf4208d7bdfddaf32ba496cf577d9854f005491333615c76ae4d7dd61&scene=0)
+	- [通证通研究院：Grin 深度报告](https://www.chainnews.com/articles/182565597152.htm)
+	- [Grin up 周报](https://www.chainnews.com/articles/049413235405.htm)
 
-- [Dx.exchange](https://dx.exchange/): 想不想买美股？想不想7天24小时交易交易更多全球资产？在这里~ Dx.exchange正式上线了，这是一家合规的交易所哦😄甜甜圈尝试了，界面非常现代，不过KYC非常严厉😢
-
+- [Codex](https://codex.one/): Codex，这个注册在爱沙尼亚🇪🇪的合规数字货币交易所，目前在针对[EOS CPU交易这块做了一些派发的推广](https://cryptoradar.org/codex-exchange-and-attic-lab-eos-bp-collaborated-for-eos-cpu-giveaway/)，中心化交易所直接切入CPU这块吸引了甜甜圈的眼球，同时🇪🇪也是甜甜圈很向往的一个自由国度，推荐小伙伴可以试试~ 
+- [NUMERAI](https://numer.ai/homepage) Numerai是一个很神奇的项目，他针对数据科学家每周进行数据锦标赛，然后获胜者除了现金奖励还有他的代币NMR的奖励，然后科学家可以用NMR继续投入押注进行新一轮锦标赛。他确实实现了使得token分布在最直接使用它的人手中，值得借鉴。
 
 
 ### 3.Dapp跟踪:
 很多甜甜圈🍩的关注者都觉得Dapp其实就是博彩和收藏类卡牌类游戏，这个甜甜圈在这里纠正一下，Dapp在甜甜圈看来是任何使用区块链技术的App应用。所以这个版块会推荐一些特别的新尝试，即使目前不🔥，只要有趣：
-#### 交易所
-- [Uniswap](https://uniswap.io/): ETH社区中出现的一个很与众不同的交易所，所有的流动资金提供方（做市商），是按照他所规定的比例提供不同货币种类的流动资金，而且他会按照他内部的算法自动进行交易。一种很特别的提供流动资金的方式。但是长期来看，他真的能吸引足够多的用户或者流动资金的提供方吗，甜甜圈表示怀疑，anyway，从创新的角度来说，可以了解下。
 
 #### 社交
-- [CanWork](https://www.canwork.io/home): 这个项目直接使用Dai来成为分布式职业的工作报价。相比于之前的很多类似项目，这个项目非常直接，基本模式并没有因为区块链而被颠覆，反而将Dai植入到其中，在去中心化办公的场景下，这个是否真得Can Work呢？😝
 
-- [ENS Nifty](https://ensnifty.com/): 甜甜圈🍩脑洞一下，问小伙伴的名字是否可以交易？当然不可以，因为如果我叫李明，任何其他人都可以叫李明，无需付我钱，但是如果名字是唯一的呢？如果你要叫李明，先查一下，看看有没有任何人叫李明，如果有，开个价，愿意不愿意交易给你？哈哈哈，这个比喻其实不贴切，最贴切的当然是网址的销售转卖，ENS 当然期望这个也变为一种更容易交易的资产，所以就NFT化了。
+- [Alchemy.daostack](https://alchemy.daostack.io/): 大家是否厌倦了steemit这些不严肃的话题，期望对于一些真实的提案有交互，支持那些重要的有意义的提案？这个项目在甜甜圈🍩看来就是一个最好的尝试，使用这个提案系统，能够实现这一去中心化的提案系统，你可以stack那些具有价值的提案，同时你甚至可以在你stack的提案被获得通过的时候获得一些token奖励。在alpha阶段，试试看吧~
  
 
 ### 4.近期深度文章
 
-- [关键不是去中心化，而是可分叉](https://mp.weixin.qq.com/s?__biz=MzUzMTcxNTc3Nw==&mid=2247483966&idx=1&sn=8b76f33579a25ba01249f30f97e9faa4&chksm=fabf0190cdc888864b3eb9b5e99d761a881db8bacd47367e02034f479c9fb8b449f945f2e646&scene=0&xtrack=1) ，正如标题所述，可分叉相比去中心化来说是更实际的。作者在这方面的思考非常深入，去中心化只是一句口号，而由于可分叉的存在，使得区块链的"中心"并不能占到举足轻重的位置，所以这才是保证区块链可以做到去除一个顽固腐化的中心的根本手段，也是激励中心发挥固有作用的鞭策。
-- [以太坊5年](https://mp.weixin.qq.com/s/0tM80TBfoBvzYacOeCsHuA)，回顾了5年来以太坊的历程，透露了一些背后鲜为人知的故事，我们回顾历史是为了能更好的看到未来。
-- [Opera,集成了区块链](https://media.consensys.net/ecosystem-spotlight-opera-the-blockchain-ready-browser-ab03ba16e613): Opera，作为知名的浏览器，已经原生整合和以太坊区块链钱包。这是非常重要的一个举措，甜甜圈🍩在期待什么时候操作系统直接集成区块链全节点😄
+- [STO 进展: STO需要被首先在监管平台上交易](https://www.coindesk.com/security-token-trades-on-regulated-platform-in-market-first): STO的期待在2018年一直持续，但是进展上走势很艰难，甜甜圈最近和一些投资人聊发现更多投资人最关心的问题还是流动性，如果STO不能提供充足的流动性，那么似乎和新三板就没有什么区别，也无法获得足够的收益回报。不过甜甜圈觉得STO中还有很多机会，现有的监管框架的融合并能够提供足够的流动性将成为重中之重。
+- [监管：全球区块链监管框架已成](https://www.8btc.com/article/343831): 2019年是反思和buidl的一年，昨天[国家互联网信息办公室发布《区块链信息服务管理规定》](https://www.8btc.com/article/343803)小伙伴都意见注意到了，甜甜圈觉得对于合规，如果长远看一件事情是正确的，合规是必须做的~这篇文章为小伙伴梳理了全球合规最新的进展，推荐给小伙伴~
+- [Bitcoin 网络转账费处于6年最低位](https://www.longhash.com/news/bitcoin-btc-transaction-fees-are-at-their-lowest-in-six-years): 如果要说加密货币的严冬，看看网络转账费就可以了，目前如果以最小单位`satoshi`计算,2019年1月1日才660，相当于0.02美金，确实很低很低。。。
+- [区块链行业2018年度盘点](https://mp.weixin.qq.com/s/Z62iPugViRm-dsXCzvKu1g)：从数据的角度展示并总结了区块链行业18年的各类现象。
 
 通证甜甜圈🍩, XOrder.ai 欢迎多提宝贵意见! [邮件](qchen@xorder.ai)
