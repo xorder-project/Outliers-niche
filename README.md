@@ -61,7 +61,7 @@
 
 - [EIP1690: 销毁标准提案](https://github.com/ethereum/EIPs/issues/1690): 这个提案的目的非常简单，就是能够销毁一个无用的合约，这个标准通过创建一个`MortabilityStandardInterface`接口，通过`kill`方法来让`owner`销毁一个合约。非常简洁。
 
-
+- [ProgPOW](https://medium.com/@ifdefelse/understanding-progpow-performance-and-tuning-d72713898db3) 这个由IfDefElse团队开发的抗ASIC算法已经得到了核心开发者的认可，认为需要引入该算法来对抗ASIC，只是目前还未达成一致是在什么阶段引入。大家对ProgPOW算法感兴趣的除了参考上述原文，还可以参考[以太坊爱好者的翻译](https://mp.weixin.qq.com/s/JApOJK22VmDSEGzwyd-ShA)，以及[这篇解释文章](https://mp.weixin.qq.com/s/ZgYYP2D-h8QDWW7dDxwTaA)。
 
 #### EOS：聚焦公投2.0
 
@@ -99,6 +99,6 @@
 - [如果加密世界是个迷宫，有哪些路是需要去尝试的？
 ](https://orange.xyz/p/302): 文章以自问自答形式描述了区块链目前的几大问题，包括：价值捕捉、游戏、稳定币、代币化证券、初始token分配、代币治理、货币政策、隐私、分发渠道、扩容与去中心化、web3、联盟链、零知识证明
 - [为 2019 年的密码世界划重点](https://mp.weixin.qq.com/s/300o6WLxB5kUVFBM9w238g): 作者对区块链2019年的十大预测，涵盖63个点：比特币6项、以太坊8项、其他项目13项、一级市场项目5项、稳定币4项、区块链基金4项、区块链产品5项、区块链公司13项、政策监管5项
-
+- [Pantera雄文：去中心化金融系统](https://mp.weixin.qq.com/s/oWfyX2cSVfdL_0cmQWBx9A)： 本文蕴含了Pantera的投资理念，尤其是最后的对于每个项目的技术，经济模型，团队等等方面的考察重点甜甜圈认为非常有借鉴意义。
 
 通证甜甜圈🍩, XOrder.ai 欢迎多提宝贵意见! [邮件](qchen@xorder.ai)
