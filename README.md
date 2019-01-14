@@ -13,7 +13,7 @@
 | [Hashrate](https://www.blockchain.com/charts/hash-rate)| 3826 万 TH/s| 下降|
 | [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 635 万美元 | 下降|
 | [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 14 BTC | 下降|
-| [未确认交易数](https://www.blockchain.com/zh-cn/btc/unconfirmed-transactions) | 2.0 千笔 |上涨明显|
+| [未确认交易数](https://www.blockchain.com/zh-cn/btc/unconfirmed-transactions) | 2.0 千笔 |下降|
 
 
 |ETH | 数据 | 趋势|
