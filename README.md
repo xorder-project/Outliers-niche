@@ -101,7 +101,7 @@
 - **Pin一周** [为 2019 年的密码世界划重点](https://mp.weixin.qq.com/s/300o6WLxB5kUVFBM9w238g): 作者对区块链2019年的**十大预测**，涵盖63个点：比特币6项、以太坊8项、其他项目13项、一级市场项目5项、稳定币4项、区块链基金4项、区块链产品5项、区块链公司13项、政策监管5项。
 - [Messari 大佬给的2019年致富代码](https://mp.weixin.qq.com/s/EgiHB22jXSe_frFezH_RhQ)：Messari一直是甜甜圈比较关注的项目，他们的工具可用性也非常强。本篇是其创始人对于2019年区块链行业的96个预判中部分摘录，英语功底好的小伙伴可以读下[原文](https://medium.com/@twobitidiot/96-theses-for-crypto-in-2019-1498fe1a14e)。
 - [欧洲区块链行业发展研究](https://mp.weixin.qq.com/s/UGrjdmlmEtpL5tWiiO0i5Q): 详述了欧洲当下的区块链发展状况，主要从监管政策还有宏观上分析了各个欧洲的区块链项目。
-
+- [ETH 年度总结：关于ETH和整体通证经济](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276):这是一篇关于ETH的一切的回顾文章，尤其是MakerDao Defi等甜甜圈反复提到的都会出现，为什么放在最后而不放在ETH中呢？因为太长了。小伙伴有时间可以仔细阅读~bless~
 
 
 通证甜甜圈🍩, XOrder.ai 欢迎多提宝贵意见! [邮件](qchen@xorder.ai)
