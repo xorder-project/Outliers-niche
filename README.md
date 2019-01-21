@@ -31,7 +31,7 @@
 
 ### 1.核心项目进展
 #### ETH: 等候升级重新开启，反思！
-- **Pin** [安全警告！Constantinople 最新消息]Constantinople[推迟的公告](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/), [中文翻译公告](https://ethfans.org/posts/security-alert-ethereum-constantinople-postponement), 目前消息(Parity [创始人Afri的twitter](https://twitter.com/5chdn/status/1086285718710816768),以太坊周报转发显示，最新升级将放在**7280000，估计在2019年2月27日**。也就是延迟了20万个区块，并将这次的问题根源的[可重入攻击的疑点](https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9)的EIP-1283移除,甜甜圈已经在等待以太坊基金会发布正式公告。目前所有客户端也都没有准备好。
+- **Pin** **Constantinople 最新消息** Constantinople[推迟的公告](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/), [中文翻译公告](https://ethfans.org/posts/security-alert-ethereum-constantinople-postponement), 目前消息(Parity [创始人Afri的twitter](https://twitter.com/5chdn/status/1086285718710816768),以太坊周报转发显示，最新升级将放在**7280000，估计在2019年2月27日**。也就是延迟了20万个区块，并将这次的问题根源的[可重入攻击的疑点](https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9)的EIP-1283移除,甜甜圈已经在等待以太坊基金会发布正式公告。目前所有客户端也都没有准备好。
 
 
 - [ETH2.0:设计目标](https://media.consensys.net/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01): 这篇文章很清楚的将ETH2.0的设计目标给我们罗列出来了，这篇文章的价值在于在回到“why”这个关键问题，值得细读~
