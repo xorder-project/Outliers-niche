@@ -34,7 +34,7 @@
 
 
 - [Grin](https://grin-tech.org/)&[Beam](https://www.beam.mw/): 利用mimblewimble共识机制的两个兄弟项目。经过一番调试，Grin第一个区块已于北京时间00:01被鱼池挖出。**特别提醒Beam已经在北京时间1月3日主网上线，Grin也在1月15日主网上线**
-	- [数据说话](https://grinmint.com/pages/index.html)：用户: 1699(<- 1583 up！); 矿工 5265(<- 4096 up!); Hashrate: 波动剧烈( Primary 694(<- 103 up!), Secondary 85810 G/s(<- 55375 G/s)  
+	- [数据说话](https://grinmint.com/pages/index.html)：矿工 6377(<- 5265 up!); Hashrate: **大幅增加**( Primary 1163(<- 694 up!), Secondary 123383 G/s(<- 85810 G/s)  
 		- 出块情况查询：[grinscan](http://grinscan.net)，[grinmint](https://grinmint.com/)
 	- **Curated list**，帮助大家更好的认识Grin、Beam这个项目: 
 	- [以XRP和XMR为参考，估值Gin](https://mp.weixin.qq.com/s/fcxnjN0TWjD4FoK8A1KH4g): 这篇最新的估值文章将Grin以货币来计算，并通过贴现来获得目前的估值。你觉得呢？
