@@ -48,7 +48,7 @@
 	- [开发团队对Grin全方位的介绍ppt](https://github.com/mimblewimble/grin-pm/tree/master/presentations/grincon0)
 
 
-- [Steem 生态](https://steem.com/): Steemit, 最近非常强势，尤其是系统内的[Steem Dollars](https://coinmarketcap.com/currencies/steem-dollars/#charts)又接近了1美金，恢复了功能。那么Steemit发生了什么呢？第一，[API换了Hivemind](https://steemit.com/hivemind/@steemitblog/hivemind-is-live),更高效了，开始[做广告创收了](https://steemit.com/steemit/@steemitblog/testing-ads-on-steemit-com) ,第三，增加了一个[运营总监](https://steemit.com/steemit/@steemitblog/steemit-inc-leadership-changes), 大家发现没有，Steemit有一个自有媒体生态，所有信息都流入[Steemit](https://steemit.com/),这也是非常特别的！
+- [Steem 生态](https://steem.com/): Steemit, 最近非常强势，尤其是系统内的[Steem Dollars](https://coinmarketcap.com/currencies/steem-dollars/#charts)又接近了1美金，恢复了功能。那么Steemit发生了什么呢？第一，[API换了Hivemind](https://steemit.com/hivemind/@steemitblog/hivemind-is-live),更高效了；第二，开始[做广告创收了](https://steemit.com/steemit/@steemitblog/testing-ads-on-steemit-com) ；第三，增加了一个[运营总监](https://steemit.com/steemit/@steemitblog/steemit-inc-leadership-changes), 大家发现没有，Steemit有一个自有媒体生态，所有信息都流入[Steemit](https://steemit.com/),这也是非常特别的！
 
 - [NEO 生态](https://neo.org/)不知不觉一年过去了，作为中国的以太坊，[Devcon2](https://devcon.neo.org/)在24天以后也将开始了，这次在西雅图举办，核心是节点的去中心化和生态建设，合作方式Microsoft，[NEO.ONE](https://neo-one.io/)这次挑起了大梁，比较让我们困惑的是CityOfZion的人甚少参加，我们会持续报道DevCon2的进展~ 
 
