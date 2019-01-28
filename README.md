@@ -55,6 +55,8 @@
 - **购买地皮类** Axie Infinity 推出[地皮游戏](https://land.axieinfinity.com/purchase/): Axie Infinity 使用了侧链Loom，提高了游戏的速度；同时集成了Kyber，支持多币种支付,这块游戏的设计精美，小伙伴值得一试。
 - **虚拟游戏资产类** [Worldopo](https://www.worldopo.io/)是基于地图的AR技术的虚拟资产收集类游戏。其中的“ingame sale”模式非常值得关注~
 - **社交** [Faceworths](https://faceworths.net/)是基于tron的一款上传头像互相点赞的游戏~你可以参与打分，如果打分和群众打分一直，可以获得tron奖励。区块链选美😄
+- **效用**[Skale](https://skalelabs.com/) 扩容确实是一个大方向，像RDN，LOOM都致力于提高以太坊的扩展性以承接更高的DAPP。Skale 18年9月才正式运营，也获得了不少风投的关注和投资，包括NGC的投资。虽然目前还没有token和开放代码，不过似乎很受市场看好，值得关注下。
+
 
 ### 嗅觉
 - @123 [liqui](https://liqui.io/):停止运营!随着流动性下降到了冰点，交易所也开始变得非常冷清，并陆续倒闭~
@@ -80,6 +82,11 @@
 
 ### 近期深度文章
 - [为 2019 年的密码世界划重点](https://mp.weixin.qq.com/s/300o6WLxB5kUVFBM9w238g): 作者对区块链2019年的**十大预测**，涵盖63个点：比特币6项、以太坊8项、其他项目13项、一级市场项目5项、稳定币4项、区块链基金4项、区块链产品5项、区块链公司13项、政策监管5项。
+
+- [336亿的生意——你所不了解的Dapp这一年（下）](https://mp.weixin.qq.com/s/xNyP6dbQSdHWV1GdXSYCcQ) dappreview 牛总的雄文，回顾了2018年的DAPP的发展历程，让我们见证DAPP的热度转移和起伏，思考是否能从中窥见一些未来的方向。
+
+- [一位暗网从业者的自述：黑市曾经是比特币的摇篮，未来它会怎么发展？](https://mp.weixin.qq.com/s/Ul5dSYsdtV0dMFHsgZv7Jg) 暗网，一个在区块链发展过程中不得不提的领域，让我们不带有色眼镜去看待它，仅把它当作一个客观的存在去研究它的发展会对世界，对区块链有何影响。这篇文章出自某位暗网从业者之手，告诉了我们一些不为人知的运作机制。
+
 
 - [Why BitTorrent Mattered — Bittorrent Lessons for Crypto](https://medium.com/@simonhmorris/why-bittorrent-mattered-bittorrent-lessons-for-crypto-1-of-4-fa3c6fcef488)：大家都知道最近binance要上BTT了，这篇文章从BTT前员工的角度讲了BTT作为一个生态的存在意义，本文为系列的第一篇，后续大家还可以继续跟踪。
 
