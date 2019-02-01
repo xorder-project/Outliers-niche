@@ -6,7 +6,7 @@
 
 
 ## Pheromone 另类生境之信息素
-定位 （每日5min)  ：outliers 的**playground**：信息素pheromone是蚁群用来留下食物路线所释放的标记，这部分内容持续更新，期望为outliers提供最真实、新鲜、简洁的讯息，期待找到那些真正会暴炸💥的机会~
+定位 （每日5min)  ：outliers 的**playground**：信息素pheromone是蚁群用来留下食物路线所释放的标记，这部分内容持续更新，期望为outliers提供最真实、新鲜、简洁的讯息，期待找到那些真正会爆炸💥的机会~
  
 ### 感觉链上数据
 
@@ -63,7 +63,7 @@
 
 ### 核心项目及技术
 
-- ETH: [Aragon DevCon Berlin](https://aracon.one/livestream/)： 这里有Aragon DevCon的视频， DevCon上Aragon发布正在考虑基于 [Polkadot](https://polkadot.network/) 协议来构建区块链 Aragon Chain，Aragon一直是ETH的忠实拥趸，但是ETH扩容的不确定性也带来了项目发展的瓶颈。期望ETH迅速解决文体。
+- ETH: [Aragon DevCon Berlin](https://aracon.one/livestream/)： 这里有Aragon DevCon的视频， DevCon上Aragon发布正在考虑基于 [Polkadot](https://polkadot.network/) 协议来构建区块链 Aragon Chain，Aragon一直是ETH的忠实拥趸，但是ETH扩容的不确定性也带来了项目发展的瓶颈。期望ETH迅速解决扩容。
 
 - STO: [生物科技公司 Agenus 宣布，计划通过证券型代币发行（STO）融资 1 亿美元](https://www.securities.io/agenus-announces-upcoming-digital-security-offering/): 创新药公司发币这个设想在志愿者翻译的“Token Bonding Curves”系列中有提到过。但目前披露的信息来看，币的功能是和未来药的收益相关，实际上类似股票了，和我开始设想的币作为类似bnb的优惠券有些区别。如果是和收益相关，那币的估值可以参照传统股票市场对创新药的估值了，即市销率法。投资这个币的资本是atomic capital，这家资本官网上显示它们主要投资的是油气、家电、地产，和数字化东西不太相关。所以总的来看此事还需要观察和跟进。
 
