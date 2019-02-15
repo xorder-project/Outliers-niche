@@ -35,7 +35,7 @@
 - [Grin](https://grin-tech.org/)&[Beam](https://www.beam.mw/): 利用mimblewimble共识机制的两个兄弟项目。**特别提醒持续更新最后一周**
 	- [数据说话](https://grinmint.com/pages/index.html)：**Grin算力确认下跌，之前最大矿工（20%算力）没有再切回来，整体算力离开最高点已经下跌25%**
 		- 矿工 13633(<- 15497 **下降**); 
-		- Hashrate: ( Primary 6525.4 G/s(<- 5583.6 上涨), Secondary  249168 G/s(<- 269312 G/s **持续下降，目前最大矿工之占总量10%**)  
+		- Hashrate: ( Primary 6525.4 G/s(<- 5583.6 上涨), Secondary  269912 G/s(<- 269312 G/s **目前最大矿工之占总量10%**)  
 		- 出块情况查询：[grinscan](http://grinscan.net)，[grinmint](https://grinmint.com/)
 	- **Curated list**，帮助大家更好的认识Grin、Beam这个项目: 
 		- [以XRP和XMR为参考，估值Gin](https://mp.weixin.qq.com/s/fcxnjN0TWjD4FoK8A1KH4g): 这篇最新的估值文章将Grin以货币来计算，并通过贴现来获得目前的估值。你觉得呢？
