@@ -12,44 +12,39 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4670 (<- 4520) 万 TH/s| **上涨**|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 745(-< 689)万美元 | 上涨|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 29(<- 26) BTC | 上涨 |
-| [未确认交易数](https://www.blockchain.com/zh-cn/btc/unconfirmed-transactions) | 5.7(<- 5.7) 千笔 |持平|
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 3917 (<- 4670) 万 TH/s| **大幅下降**|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 657 (-< 745)万美元 | 下降|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 38(<- 29) BTC | 上涨 |
+
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 154(<- 141)TH/s| 上涨|
-|[转账笔数](https://etherscan.io/chart/tx)|53(<- 47)万|上涨|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| 4475(<- 448) eth| **异常上涨**|
-|[未确认交易数](https://etherscan.io/chart/pendingtx)| 2.8(<- 2.8)万 | 持平|
-|[gas 中位数](https://ethgasstation.info/)| 10(<- 10) gwei | 持平|
-|[gas 费用(5分钟内可确认)](https://ethgasstation.info/)| 5(<- 5) gwei | 持平|
+|[Hashrate](https://etherscan.io/chart/hashrate)| 152(<- 154)TH/s| 持平|
+|[转账笔数](https://etherscan.io/chart/tx)|54(<- 53)万|持平|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| 450(<- 4475) eth| **恢复通常值**|
+
 
 
 ### 热锅上的项目🔥
-- **ETH Constantinople 最新消息** Constantinople[推迟的公告](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/), [中文翻译公告](https://ethfans.org/posts/security-alert-ethereum-constantinople-postponement), 目前消息(Parity [创始人Afri的twitter](https://twitter.com/5chdn/status/1086285718710816768),**已被删除**以太坊周报转发显示，最新升级将放在**7280000，估计在2019年2月27日**,目前客户端的更新已经完成，所有列表可以见 [list](https://www.reddit.com/r/ethereum/comments/ao2bee/constantinople_hard_fork_on_february_27_thats/) **感谢 @101 的贡献**。
-- **ETH警示** 自从Parity的核心负责人[Afri停止更新社交账户](https://www.coindesk.com/ethereum-core-developer-quits-social-media-over-conflict-of-interest-attacks) **感谢 @749 的贡献** Afri再次在twitter上表态，他退出Ethereum基金会，不再担任hard-hork 的coordinator，同时也声称自己并没有为 Polkadot 工作过。太同时声明不愿再为Ethereum免费贡献任何东西，并开启他的收费模式。
-**甜甜圈🍩评论** 这个对于ETH社区真的是一个意外，尤其是在等待即将到来的硬分叉的时候。这个时候人们是否会质疑开源社区的免费贡献文化？是否会对于ETH社区表示失望？甜甜圈期待Vitalik和Lubin的反馈~
+- **ETH Constantinople 最新消息** Constantinople[推迟的公告](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/), [中文翻译公告](https://ethfans.org/posts/security-alert-ethereum-constantinople-postponement), 目前消息(Parity [创始人Afri的twitter](https://twitter.com/5chdn/status/1086285718710816768),**已被删除**以太坊周报转发显示，最新升级将放在**7280000，估计在2019年3月1日**,目前客户端的更新已经完成，所有列表可以见 [list](https://www.reddit.com/r/ethereum/comments/ao2bee/constantinople_hard_fork_on_february_27_thats/) ，同时Huobi交易所发出[公告](https://twitter.com/huobiglobal/status/1098535864919945216?s=21)支持这次分叉可能出现的糖果🍬了**感谢 @101 的贡献**。
 
-- [Chainlink](https://chain.link/) 我们知道区块链技术能被广泛应用的推动过程中，除了扩容跨链等技术方向，还有一个工具非常重要，那就是oracle预言机。Chainlink就是致力于开发去中心化的Oracle的项目，这个方向前景广阔，目前市场上没有太多竞争项目。最大竞争来自于Augur，它可以变相成为一个oracle，不过不是一致的方向。这个项目在4chan论坛也常被提起，社区热度较高。
 
-- 应用层: [Theta](https://www.thetatoken.org/): 项目主网上线的日子3月15日不到1个月了，[原博客](https://medium.com/theta-network/theta-network-major-project-updates-c0e268420ada), 这个项目在2018年底重构以后，进展迅速，这个项目力图重新打造视频流，有创造了一个[fuel token](https://medium.com/theta-network/theta-fuel-the-operational-token-of-the-theta-network-2f6823e2182e)。你看到了价值？😆
+- 应用层：[MakerDao 稳定币Dai落地](https://medium.com/fluidity/factor-805-introducing-dai-into-security-tokens-a02a98f69cd9): 目前已经有[50个稳定币的项目](https://stablecoinindex.com/projects)了,应该客观说，如果有一个现实场景直接使用稳定币作为支付，那么会大大促进稳定币被现实世界的接受。这个场景已经来了！目前，Dai Integration 正在大力推动者方面的工作，Factor-805 成为了先例，这是纽约的公寓项目，直接使用Dai投资，预期收益13.74%，收益也直接以Dai进行返回。MakerDao当然是幕后的推手。同时[Longhash的一份研究显示](https://www.longhash.com/news/the-explosion-of-uniswap-and-the-future-of-decentralized-exchanges): 目前MKR/ETH交易对最大交易量是在Uniswap交易所，并且如果按照过去的增速，未来Uniswap将成为第一大去中心化交易所。
 
+- 应用层：**Status** [Plasma 主链意外落地](https://mainnet.leapdao.org/): [Leapdao](https://leapdao.org/)是一个小型的项目，刚刚获得以太坊基金会的支持，不过同时也是status扶植的项目。这个项目已经落地了！当然，小伙伴可以试试，目前通过水龙头机制可以[获得LEAP token](https://mainnet.leapdao.org/faucet)，甜甜圈🍩已经获得，非常容易！小伙伴可以试试~ 那么和Status有什么关系呢? 原来Status是leapDao最早的backup，可以看看leapDao的[主页](https://leapdao.org/)。
 
 ### Dapp未来的应用: 
-- Dapp 总体数据：ETH $ 3.6 Million 上涨 , EOS $ 20.0 Million 上涨, Tron $ 6.4 Million 下降 , 整体市场处于回收，提出源于通证价格上涨因素，回升不明显。 
+- Dapp 总体数据：ETH $ 3.5 Million 持平 , EOS $ 20.0 Million 持平, Tron $ 8.2 Million 上涨 , tron相对有明显上涨~  
 
-- **感谢@ym** [CelerX](https://celerx.app/)：Vitalik昨天在twitter上推荐了再这个平台可以玩五子棋，同时还能参加[比赛](https://celerx.app/campaign.html)。目前虽然在测试网上，不过给甜甜圈🍩一种眼前一亮的感觉！赶紧试试吧！
+- [toCandy](https://tocandy.com/):Tron上的糖果分发平台，本身的token也能够交易。客观讲，这个是一个宣传口径，在目前火🔥了。
 
-- **基于Lightning Network支付**：
-	- [yalls](https://yalls.org/): 这是一个付费的lightning网络的博客，类似于基于lightning的medium。比较有趣的是，要阅读必须付费。需要关注的是，在[Node](https://yalls.org/nodes/)中，我们可以轻易查到支持这个博客论坛的节点，还能够评估这些节点。就如同我们可以清晰看到Medium后面的运营者，使得这个网络更robust。
-
+- **落地场景**：
+	- [tippin](https://tippin.me/)通过闪电网络打赏BTC小费，互相小额支付，tippin非常方便，包括[pomp](https://twitter.com/APompliano/status/1098378183697752064)也在推荐~试试吧！
+	- [CoinATMradar](https://coinatmradar.com/): 最近，甜甜圈🍩发现，一些小伙伴对于数字货币还是心存疑虑，虽然信仰，但是似乎太遥远。甜甜圈发现，如果有看得见摸得着的场景，对于建立信心就非常有帮助了，那么ATM机就足够**真实**了！这个ATM radar为我们展示了目前世界上有的ATM机，可以发现，现在一共有76个国家有这种装置了！美国和欧洲的ATM机最多，在这些地方，人们可以直接使用现金来买到BTC，也可以通过BTC取现现金。最接近我们的是中国香港，目前有32台这样的机器了~
 
 ### 小币种
-- [counterparty](https://counterparty.io/): 这个项目非常的古老，2014年1月2日在BTT上发的众筹，被称为合约币。当时采用的分配方式是PoB（Poor-of-Burn），就是销毁BTC发布XCP。为什么当下提到counterparty？源于最近[Symbiont](https://symbiont.io/)的一次融资[2000万美元](http://fortune.com/2019/01/23/nasdaq-citi-symbiont-blockchain-venture-capital-cryptocurrency/)，相比于之前的公有链，Symbiont的目标就是为联盟链服务，而counterparty是Symbiont的联合创始团队，Counterparty的技术负责人[Adam Krellenstein](https://www.linkedin.com/in/adam-krellenstein-54048b96/)现在就在Symboint。OK！那么两者的关联呢？甜甜圈期望你的遐想:-D
-- [抹茶交易所平台币MX](https://mxc-exchange.zendesk.com/hc/zh-cn/articles/360023385092):2018年Q3上线的一个交易所，当时的平台币采用交易即挖矿，上周停止了，目前币还剩10亿，币价为0.0125美金，总市值约为1250万美金，币改为持仓即分红，学的OKEX，每周60%的交易手续费分红。目前积极的方向是，团队紧跟前沿，如很早上线了Grin，偶尔也会碰瓷币安，如开启了Fetch.ai的众筹，看得出他们积极有为，并且有很强的求生欲。但尚不明确的是团队技术功底，以及交易所用户都是国内玩家，国际化方面基本没有。可以继续跟踪，尤其是本周分红后。
+- [Plasma LeapDao](https://mainnet.leapdao.org/): 甜甜圈🍩在这里再次为推荐LeapDao，要理解plasma，需要一些时间。尤其是plasma上的token并非ETH主链上的token，所以当我们打开[wallet](https://mainnet.leapdao.org/wallet)的时候，我们会发现，我们有两个balance,一个是plasma上的balance，一个是主链上的balance。而我们水龙头申请到的LEAP token，是直接到plasma上的，所以是秒到的，而主链上并不能看到有LEAP的交易。[主链上的LEAP](https://etherscan.io/token/0x78230e69d6e6449db1e11904e0bd81c018454d7a#balances)和plasma上的token可以互通。小伙伴们可以好好研究一下~
 
 
 
@@ -62,10 +57,11 @@
 - **BTC** [闪电网络](https://p2sh.info/dashboard/db/lightning-network?orgId=1&from=1529230731350&to=1549966731350): 闪电网络已经进行3万个channel了，总channel的BTC容量也达到了近700 BTC。从2018年2月的初的1千channels，4 BTC到目前，一年以来增长迅速。关于闪电网络，最新的热点是[twitter CEO Jack Dorsey对于迅速将lightning接入到Square（支付工具）中的言论](https://twitter.com/stephanlivera/status/1094938688377610240),那么闪电网络到底有什么应用呢？
 	- [简单介绍](https://medium.com/coinmonks/intro-to-lightning-network-apps-lapps-b548c96ec13f) 简单但系统地介绍了闪电网络和一些应用场景。
 	- [关于lightning network你需要知道的一切](https://messari.io/resource/lightning-network) Messari为我们做了一个非常全面的Curated 内容
-	- **今日看点** [zigzag](https://zigzag.io/):基于闪电网络的交易所,小伙伴可是试试哈！
+	- **今日看点** [Lightning Specs v1.0](https://github.com/lightningnetwork/lightning-rfc/releases/tag/v1.0): 在[acinq](https://acinq.co/)，[blockstream](https://blockstream.com/)和lightning团队的同力合作下，lightning目前正式有了一个稳固的基金会！👍
 
 - **ETH**: [ETHDenver Global](https://www.ethdenver.com/)真的是非常丰盛！这里有[agenda日程](https://www.ethdenver.com/schedule/) **top20个项目**已经出炉啦！其中包括甜甜圈特别推崇的[zDai](https://zdai.io/),Delfi,也包括一些特别有落地场景的，比如[Carbos](http://carbos.co/) 赶紧来看一下吧！[点这里](https://twitter.com/EthereumDenver)
 - **ETH**：[以太坊社区对ProgPow不感冒？98%的以太币投票反对ProgPow](https://www.8btc.com/article/360718) 虽然只进行了两天，但是这个投票的结果和之前以太坊主流开发者认可的结果大相径庭。甜甜圈跟踪了最新的[投票结果](http://www.progpowcarbonvote.com/)已经完全反转啦。
+- **ETH**：**今日看点** 以太坊基金会又[资助了一批新项目](https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/), 这些项目包括LeepDAO、DeepSEA、The matter，都是关于ETH2.0和测试网、新智能合约语言等基础设施建设的。
 
 - **NEO**: [NEO DevCon2019](https://devcon.neo.org/)也落幕了，这次做了直播，所以再DevCon主页中，可以看到两天每天长达8小时的直播。达叔强调了“区块链是新的机构经济”，峥文也叙述了关于NEO3.0的架构。小伙伴们，一起去看看吧！
 
@@ -78,17 +74,15 @@
 	- [Binance未来的发展路径](https://www.binance.com/en/blog/300213018722623488/): 这篇是Binance CZ的AMA，其中提到了Binance会使用Cosmos的Tendermint Protocol的Fork了实现DEX。同时test版本在近一周就会上线，我们可以期待~
 	- [Trust Wallet](https://trustwallet.com/blog/video-contest): 币安钱包的推广开始加力，现在向社群征集宣传片video。 Trust Wallet现在有安卓和ios版本，甜甜圈。
 	- [Binancelabs]([Binancelabs](https://www.binancelabs.co/)) 蹭着ETHDencer的热度，期望孵化更多优质项目。顺便也在宣传[Trust Wallet](https://trustwallet.com/)
-	- **今日看点** [Binance DEX testnet上线](http://testnet.binance.org) 同时赵表示币安dex是币安链的第一个dapp，意味着还将有其他的dapp会部署在币安链上。
-
+	- [Binance DEX testnet上线](http://testnet.binance.org) 同时赵表示币安dex是币安链的第一个dapp，意味着还将有其他的dapp会部署在币安链上。
+	- **今日看点** [Binance Charity Foundation](https://twitter.com/BinanceBCF): 甜甜圈🍩不得不佩服Binance在慈善上所做的一切。少有交易所做慈善的，也少有交易所吧慈善做的那么认真的！尤其在[帮助非洲国家孩子](https://twitter.com/BinanceBCF/status/1098557101549465601)上面。
 
 
 ### 近期深度文章
-- [在不自由的世界如何寻找自由](https://medium.com/@bytemaster/how-to-find-freedom-in-a-unfree-world-59a416a0e8e0) 这是BM在中国的农历初一发文章，探讨了目前面临的一些深层次经济学问题，涉及到博弈论、进口关税和全球化及自治。他认为全球化只能增加我们对于其他人的需要，同时也增加了我们的脆弱性，最终是在限制人的自由。用他自己的话来总结：
 
-> True decentralization requires local solutions, not global networks. 真正的去中心化需要本土局部的解决方案，而不是全球网络。-- Daniel Larimer
+- **今日新增** [Noted Hedge Fund Says Crypto Hasn't Bottomed Yet](https://www.forbes.com/sites/jeffkauflin/2019/02/19/noted-hedge-fund-says-crypto-hasnt-bottomed-yet/amp/): 去年因为做空以太币的Tetras Capital接受采访表示，目前整个市场还没到底部，只有当更多ICO项目倒闭，更多监管出台，这两大利空落地后，才是真正的底部。但对于比特币价格是否在底部，创始人偏中性，认为现在价格是个很好的位置，但仍然持有现金。同时创始人很关注匿名币，提到了Zcash、Monero和Grin。
 
-- @101 [中本村没穿衣服！该全面评估区块链隐私保护了](https://www.chainnews.com/articles/164428497554.htm) 本文是zcash基金会董事会成员Ian Miers在Devcon4和Scaling Bitcoin大会上做演讲的整理。从一个专业的关注隐私匿名的极客的角度，分析了现在隐私保护算法面临的一些潜在攻击和未来需要做的更新。
-
+- **今日新增** [市值是衡量加密资产的通用指标，但是并不准确，还有哪些替代方案是业界在探索的？](https://mp.weixin.qq.com/s/cTGpPtQ-oHjqX_1005-zEw) 长文预警，从几个方面论述了现在用市值衡量项目的问题，以及一些变通的指标的各个不同适用情况，可以收藏。
 
 - [哈佛研究员泼冷水：我们无充分理由信任区块链](https://www.chainnews.com/articles/382135876630.htm)虽然甜甜圈认为此文有些过度的抨击了区块链的价值，但是其提出的一些关于对信任的理解值得大家思考。当下我们似乎确实并没有那么需要当下的区块链，但是未来的我们和未来的区块链之间的关系呢？
 
