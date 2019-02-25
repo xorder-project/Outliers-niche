@@ -13,7 +13,7 @@
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
 | [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4309 (<- 3917) 万 TH/s| **上涨**|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 728 (-< 657)万美元 | 下降|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 728 (-< 657)万美元 | 上涨|
 | [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 25(<- 35) BTC | 下降 |
 
 
