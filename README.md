@@ -1,6 +1,6 @@
 
 
-## Outliers' niche 另类生境 2019-2-25 第43期
+## Outliers' niche 另类生境 2019-3-1 第44期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 
@@ -12,35 +12,34 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4309 (<- 3917) 万 TH/s| **上涨**|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 728 (-< 657)万美元 | 上涨|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 25(<- 35) BTC | 下降 |
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4135 — 4860万 TH/s| 本周平稳|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 688 — 819 万美元 | 本周平稳|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 25 — 36 BTC | 本周略有上升 |
 
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 156(<- 152)TH/s| 略涨|
-|[转账笔数](https://etherscan.io/chart/tx)|54(<- 54)万|持平|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| 465(<- 450) eth| 持平|
+|[Hashrate](https://etherscan.io/chart/hashrate)| 150 — 160TH/s| 本周回升|
+|[转账笔数](https://etherscan.io/chart/tx)|48 — 57万|本周回升|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| 385 — 525 eth| 本周回升|
 
 
 
 ### 热锅上的项目🔥
-- **ETH Constantinople 升级消息** Constantinople & St. Petersburg[升级公告](https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/)，最新升级将放在**7280000，估计在2019年3月1日凌晨3点**,目前客户端的更新已经完成，所有列表可以见 [list](https://www.reddit.com/r/ethereum/comments/ao2bee/constantinople_hard_fork_on_february_27_thats/) ，同时Huobi交易所发出[公告](https://twitter.com/huobiglobal/status/1098535864919945216?s=21)支持这次分叉可能出现的糖果🍬了**感谢 @101 的贡献**。
-现在可以通过[forkmon来监控](http://forkmon.ethdevops.io/)客户端升级情况~
+- **ETH Constantinople 升级完成🌹** Constantinople & St. Petersburg[升级公告](https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/)，**7280000，实际在2019年3月1日凌晨3点52分发生**,这里可以查询具体[信息](https://amberdata.io/blocks/7280000) ，这次分叉并没有产生糖果🍬，现实情况很完美，现在可以通过[forkmon来监控](http://forkmon.ethdevops.io/)客户端升级情况~
 
-- **市场热度** [Ontology](https://ont.io/): 联盟链和应用已经越来越成为人们的关注，Ontology 占据了较大的优势，同时由于ontology的智能合约目前已经在google Cloud、AWS和Azure上的Marketplace都能够找到，也增加了ont的易用性。同时旗下的OGC目前正在紧锣密鼓地增加在美国的宣传。
+- **市场热度** [Fetch.ai](https://fetch.ai/): 争议下的Fetch.ai正式上线Binance，甜甜圈🍩提醒小伙伴在关注Fetch.ai的市场情况的同时可以更多关注Fetch.ai的项目更新情况。
 
-- 应用层：**Maker**  目前Maker在开始[提高Dai稳定币的费率1.5%](https://blog.makerdao.com/stability-fee-increase-february-22nd/)，在之前2018年12月费率从2.5%调低到0.5%之后，Maker再次上调Dai稳定币的费率到1.5%，可以看出，Maker也在开始回到盈利路线~
+- 应用层：**Maker**  上期我们介绍了Maker提高了手续费，难道Maker的生态真的起来了吗？我们可以通过 [MakerScan](https://makerscan.io/)来方便的监控Maker上的质押。同时可以在[InstaDApp](https://instadapp.io/)上直接进行质押和租借。费率目前已经上调至1.5%。对于Maker、Dai、ETH的三角关系这里有一篇[详解](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590), 橙皮书已经有[翻译稿](https://www.chainnews.com/articles/697264999250.htm)。感谢橙皮书小姐姐:-D
 
+- 应用层：**Kyber network** 最近，KNC推出了一个 EOS和ETH互换的协议[waterloo bridge](https://blog.kyber.network/waterloo-a-decentralized-practical-bridge-between-eos-and-ethereum-1c230ac65524), 这个协议的方式是在ETH上部署一个智能合约充当EOS轻钱包，同时在EOS上部署一个智能合约充当ETH轻钱包。目前已经在ETH Kovan测试链上有部署了，使用的是一种[proof of concept implementation](https://kovan.etherscan.io/address/0x2b08eba5972e21c5551f3723ba46ee9514d18485#code)的算法。**甜甜圈评论** 跨链一种是社区所追求的重要目标之一，现在看KNC将这个目标推荐了一步。请小伙伴们看个究竟，可以和我们联系~ 
 
 ### Dapp未来的应用: 
 
 - **落地场景**：
-	- [Web3.0 全节点](https://ava.do/) 甜甜圈目前特别关注web3.0的硬件设备，这个avado甜甜圈也刚刚订购了一个，终于可以使用我们的[全节点](https://twitter.com/Avado_DServer/status/1099609355090038784)啦!幸福！
-	- [Dexpay](https://dexpay.me/): 期望构建一个点对点的支付通道，并形成这样的一个类似支付宝性质的支付渠道，使用Dai而不是使用法币，使得价值流通更容易~
-
+	- [Web3.0 身份3box](https://medium.com/3box/introducing-profile-hovers-30bae578459e) 甜甜圈之前为大家介绍过3box期望做的身份插件🆔。现在进展神速，只用2行代码，就可以将身份插入。这块产品被称为**3Box profile hovers**这里有一个🌰[例子](https://3box.github.io/profile-hover/example/)，你直接可以通过这个插件将那些复杂难以识别的哈希地址替代为数字身份信息，使得Dapp用户交互变得容易。
+	- [bitrefill](https://www.bitrefill.com/): 想使用crypto来礼品卡？到这里就对了！这里可以购买超过140个国家的礼品卡，包括Amazon、Steam、hotels.com、Reddit Gold，同时这里还提供开通闪电网络支付功能，也就是说，你可以在这里开通闪电网络并受到其他人的支付。赶快试试吧！
 
 
 
@@ -49,14 +48,16 @@
 
 ### 核心项目及技术
 
-- **BTC** [闪电网络](https://p2sh.info/dashboard/db/lightning-network?orgId=1&from=1529230731350&to=1549966731350): 闪电网络已经进行3万个channel了，总channel的BTC容量也达到了近700 BTC。从2018年2月的初的1千channels，4 BTC到目前，一年以来增长迅速。关于闪电网络，最新的热点是[twitter CEO Jack Dorsey对于迅速将lightning接入到Square（支付工具）中的言论](https://twitter.com/stephanlivera/status/1094938688377610240),那么闪电网络到底有什么应用呢？
+- **BTC** **今日关注** [闪电网络](https://1ml.com/statistics): 闪电网络已经超过3万个channel了，总channel的BTC容量也超过700 BTC。🌹 推荐新工具： [1ml](https://1ml.com/)
 	- [简单介绍](https://medium.com/coinmonks/intro-to-lightning-network-apps-lapps-b548c96ec13f) 简单但系统地介绍了闪电网络和一些应用场景。
 	- [关于lightning network你需要知道的一切](https://messari.io/resource/lightning-network) Messari为我们做了一个非常全面的Curated 内容
 	- [Lightning Specs v1.0](https://github.com/lightningnetwork/lightning-rfc/releases/tag/v1.0): 在[acinq](https://acinq.co/)，[blockstream](https://blockstream.com/)和lightning团队的同力合作下，lightning目前正式有了一个稳固的基金会！👍
 
-- **ETH**: [ETHDenver Global](https://www.ethdenver.com/)真的是非常丰盛！这里有[agenda日程](https://www.ethdenver.com/schedule/) **top20个项目**已经出炉啦！其中包括甜甜圈特别推崇的[zDai](https://zdai.io/),Delfi,也包括一些特别有落地场景的，比如[Carbos](http://carbos.co/) 赶紧来看一下吧！[点这里](https://twitter.com/EthereumDenver)
-- **ETH**：[以太坊社区对ProgPow不感冒？98%的以太币投票反对ProgPow](https://www.8btc.com/article/360718) 虽然只进行了两天，但是这个投票的结果和之前以太坊主流开发者认可的结果大相径庭。甜甜圈跟踪了最新的[投票结果](http://www.progpowcarbonvote.com/)已经完全反转啦。
-- **ETH**：以太坊基金会又[资助了一批新项目](https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/), 这些项目包括LeepDAO、DeepSEA、The matter，都是关于ETH2.0和测试网、新智能合约语言等基础设施建设的。
+- **今日关注 ETH**: ConsenSys商业级解决方案[Pantheon 1.0](https://pegasys.tech/solutions/)正式发布。这是一个用java做的以太坊客户端，同时可以支持模块化操作，加入隐私、准入和新的其他算法。**甜甜圈评论** 这一步对于以太坊是有重要意义的，使得以太坊能够从公有链转而变为能够和联盟链和私有链的结合。扩大了以太坊的整体生态！
+
+- **ETH ERC**：Vitalik特别推了[ERC1775](https://github.com/ethereum/EIPs/pull/1775),基于应用层面保护隐私性的提议。相对于其他提案来讲，这个提案更务实，直接在讨论是否可以通过在地址创建、Dapp交互上的合作上来达成对于隐私的保护，这个被称为"低技术含量的隐私保护":-D 
+
+> Really happy to see progress on low-tech privacy improvements in ethereum. -- Vitalik
 
 
 - **Binance 生态**：
@@ -69,11 +70,10 @@
 	- [Trust Wallet](https://trustwallet.com/blog/video-contest): 币安钱包的推广开始加力，现在向社群征集宣传片video。 Trust Wallet现在有安卓和ios版本，甜甜圈。
 	- [Binancelabs]([Binancelabs](https://www.binancelabs.co/)) 蹭着ETHDencer的热度，期望孵化更多优质项目。顺便也在宣传[Trust Wallet](https://trustwallet.com/)
 	- [Binance DEX testnet上线](http://testnet.binance.org) 同时赵表示币安dex是币安链的第一个dapp，意味着还将有其他的dapp会部署在币安链上。
-	- **今日看点** [备战Fetch.ai](https://launchpad.binance.com/en/project/44): 今天晚上10:00 fetch.ai众筹，你准备好了吗:-D
+	- **今日看点** [Trust Wallet](https://trustwallet.com/)的[核心代码开源](https://trustwallet.com/blog/wallet-core-launch), 客观讲Trust Wallet钱包开源真的是一个非常好的事情，任何人都可以考察这个跨平台多主链的钱包的代码，同时也可以主动联系钱包并上币。值得注意的是，这个钱包的开源还会通过gitcoin上的bounty来进行奖励的分发。👍
 
 ### 近期深度文章
 
-- [卧龙——币圈历史上第二臭名昭著的喊单出货恶匪](https://mp.weixin.qq.com/s/W9MuaZNdx5HavwiyFiMQnQ): 文章讲述了“卧龙”，一个自称是新加坡基金从业者，过去如何通过操盘、做庄狗狗币和熊猫币获利的案例。
 
 - [A Primer on Bitcoin Investor Sentiment and Changes in Saving Behavior](https://medium.com/@adamant_capital/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior-a5fb70109d32): 本文回顾了市场的几大估值模型后，提出了自己的一套比特币估值模型：一个是相对未实现盈利比上亏损，得出的曲线可以大致计算出顶部和底部的周期；另一个是对比HODLer的持仓变化。具体的计算细节文章并没有给出，可以通过联系作者，和他进行深入讨论。并且，作者也是海外币圈的一个KOL。
 
@@ -81,6 +81,9 @@
 - [市值是衡量加密资产的通用指标，但是并不准确，还有哪些替代方案是业界在探索的？](https://mp.weixin.qq.com/s/cTGpPtQ-oHjqX_1005-zEw) 长文预警，从几个方面论述了现在用市值衡量项目的问题，以及一些变通的指标的各个不同适用情况，可以收藏。
 - [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2) 文章探索了用一种类似传销的方式来做慈善，结合了联合曲线来设计其中的模型。这里是橙皮书翻译的[中文版](https://mp.weixin.qq.com/s/V4jHi9G-uFDLahwOH5PFwA)
 
+- **今日看点** [Maker、Dai、ETH是否是解决币价和稳定支付的优雅方案？](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590), 橙皮书已经有[翻译稿](https://www.chainnews.com/articles/697264999250.htm)。核心观点是ETH作为价值贮存载体，Dai作为支付流，而Maker则成为去中心化利益风险共担的网关。同时作者还认为我们需要一个绑定ETH的Dai，被作者成为ethDai。**甜甜圈评论** 甜甜圈认为，这个三角是一个伟大的实验，只是如果ethDai能够成立，甜甜圈更觉得 btcDai才应该首先被制造出来。
+
+- **今日看点** [交易所的永续合约是否是未来的方向](https://www.chainnews.com/articles/458762283159.htm)。星球日报关于目前众多交易所出来永续合约的现象进行了深入的报道。BitMEX 2019年1月交易量环比下降41%，这是一个事实。只是在甜甜圈看来，交易所做永续合约和衍生品是在市场萎缩的情况下一个不得不做的事情以托起交易所的现金流。当然，从侧面看来，目前交易所也将走到一个分叉路了。
 
 
 
