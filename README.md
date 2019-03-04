@@ -1,6 +1,6 @@
 
 
-## Outliers' niche 另类生境 2019-3-1 第44期
+## Outliers' niche 另类生境 2019-3-4 第45期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 
@@ -12,34 +12,38 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4135 — 4860万 TH/s| 本周平稳|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 688 — 819 万美元 | 本周平稳|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 25 — 36 BTC | 本周略有上升 |
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 3984 — 4889万 TH/s| 本周平稳|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 641 — 790 万美元 | 本周平稳|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 25 — 36 BTC | 本周下降 |
 
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 150 — 160TH/s| 本周回升|
-|[转账笔数](https://etherscan.io/chart/tx)|48 — 57万|本周回升|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| 385 — 525 eth| 本周回升|
+|[Hashrate](https://etherscan.io/chart/hashrate)| 150 — 160TH/s| 本周平稳|
+|[转账笔数](https://etherscan.io/chart/tx)|48 — 57万|本周平稳|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| 331 — 525 eth| 本周下降|
 
 
 
 ### 热锅上的项目🔥
-- **ETH Constantinople 升级完成🌹** Constantinople & St. Petersburg[升级公告](https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/)，**7280000，实际在2019年3月1日凌晨3点52分发生**,这里可以查询具体[信息](https://amberdata.io/blocks/7280000) ，这次分叉并没有产生糖果🍬，现实情况很完美，现在可以通过[forkmon来监控](http://forkmon.ethdevops.io/)客户端升级情况~
+- **ETH Constantinople 升级完成🌹** **实际在2019年3月1日凌晨3点52分发生，区块高度7280000**,这里可以查询具体[信息](https://amberdata.io/blocks/7280000) ，这次分叉并没有产生糖果🍬，现实情况很完美，现在可以通过[forkmon来监控](http://forkmon.ethdevops.io/)，目前Ether的通胀比例为4.4%，相比于目前BTC的3.85%，已经非常接近，同时Ether的通胀率还将不断变小。
 
-- **市场热度** [Fetch.ai](https://fetch.ai/): 争议下的Fetch.ai正式上线Binance，甜甜圈🍩提醒小伙伴在关注Fetch.ai的市场情况的同时可以更多关注Fetch.ai的项目更新情况。
+- **市场热度** [RavenCoin](https://ravencoin.org): 在Ravencoin被Binance推荐并成为BNB明星项目之后，Bittrex也跟进上了RavenCoin。乌鸦币团队核心成员Bruce Fenton是币圈老人，曾是比特币基金会执行董事，且参与了以太币、EOS的早期投资。背后有Overstock支持，该公司和STO平台tZero、索罗斯有关，目前已实现资产发行功能，模型为“发行---销毁”，即发一个资产销毁500个rvn，[截止至去年11月已销毁500万个币](https://coindiligent.com/ravencoin-asset-names-valuation)，通过该币的[区块链资产浏览器](https://ravencoin.asset-explorer.net)可以查询实时的资产发行情况，rvn另一功能为分红，即对基于乌鸦区块链的资产代币地址分红rvn。目前已推出手机端应用，操作方便。
 
-- 应用层：**Maker**  上期我们介绍了Maker提高了手续费，难道Maker的生态真的起来了吗？我们可以通过 [MakerScan](https://makerscan.io/)来方便的监控Maker上的质押。同时可以在[InstaDApp](https://instadapp.io/)上直接进行质押和租借。费率目前已经上调至1.5%。对于Maker、Dai、ETH的三角关系这里有一篇[详解](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590), 橙皮书已经有[翻译稿](https://www.chainnews.com/articles/697264999250.htm)。感谢橙皮书小姐姐:-D
+-应用层: [Gnosis](https://gnosis.pm) 预测市场平台 [Helena](https://helena.network)正式上线主网。以开放市场作为一个预测项目，目前已经上5个预测项目。相比于其他的预测市场项目，Helena将参与者称为洞见提供者("Insight Provider"),并期望准确遇见事件的发生。他们每次预测的结果都被统计，并形成一个信誉分，形成对于参与者的评估。项目相信基于“下注”的预测市场和参与者curation的模式的结合能够最终提供一个实时的洞见系统。
 
-- 应用层：**Kyber network** 最近，KNC推出了一个 EOS和ETH互换的协议[waterloo bridge](https://blog.kyber.network/waterloo-a-decentralized-practical-bridge-between-eos-and-ethereum-1c230ac65524), 这个协议的方式是在ETH上部署一个智能合约充当EOS轻钱包，同时在EOS上部署一个智能合约充当ETH轻钱包。目前已经在ETH Kovan测试链上有部署了，使用的是一种[proof of concept implementation](https://kovan.etherscan.io/address/0x2b08eba5972e21c5551f3723ba46ee9514d18485#code)的算法。**甜甜圈评论** 跨链一种是社区所追求的重要目标之一，现在看KNC将这个目标推荐了一步。请小伙伴们看个究竟，可以和我们联系~ 
+### 小币种: 
+- [Appcoin](https://www.appcoins.io/):2016年发行的 一个目标很明确的utility token，致力于改善开发者，应用分发渠道和OEM之间三方的关系。初始在BTT上的ICO价格为350聪。其创始人Paulo Trezentos也是Aptoide的创始人，Aptoide是一个成立于2011年的安卓应用商店，目前已有80亿下载量，曾是全球第三大安卓应用分发平台（2015）。创始人的背景使得Appcoin的落地预期很强，目前看来确实项目推进不错。普通用户已经可以通过Aptoide获得APPC。
+
 
 ### Dapp未来的应用: 
-
+- **预警** [EOS Dapp生态首次跌破1千万美元！](https://dapp.review/) EOS生态在菠菜类的持续抽血下，已经开始不断露出颓势，EOS少数派昨天的一份报道:[Dapp越繁荣，EOS越下跌](https://mp.weixin.qq.com/s/eq0CmKYPIogMjpRD6zkCxA)用一个形象的栗子🌰展示了这种死亡螺旋。Dapp已经到了一个非常尴尬的地步。
+- [Crazydogs](https://crazydogs.live/): 这也是一个赛马🏇类的游戏，可以对于自己喜欢的狗🐶下注。整个界面做的很欧化，同时体验还不错。
 - **落地场景**：
-	- [Web3.0 身份3box](https://medium.com/3box/introducing-profile-hovers-30bae578459e) 甜甜圈之前为大家介绍过3box期望做的身份插件🆔。现在进展神速，只用2行代码，就可以将身份插入。这块产品被称为**3Box profile hovers**这里有一个🌰[例子](https://3box.github.io/profile-hover/example/)，你直接可以通过这个插件将那些复杂难以识别的哈希地址替代为数字身份信息，使得Dapp用户交互变得容易。
-	- [bitrefill](https://www.bitrefill.com/): 想使用crypto来礼品卡？到这里就对了！这里可以购买超过140个国家的礼品卡，包括Amazon、Steam、hotels.com、Reddit Gold，同时这里还提供开通闪电网络支付功能，也就是说，你可以在这里开通闪电网络并受到其他人的支付。赶快试试吧！
+
+	- [joltFun](https://joltfun.com): 做dapp游戏？太麻烦，不如就做传统游戏，然后用btc进行支付，不就得了:-D 哈哈哈😆在这里可以简单的使用BTC买到游戏，当然这是闪电网络的功劳！ 	
+
 
 
 
@@ -48,12 +52,13 @@
 
 ### 核心项目及技术
 
-- **BTC** **今日关注** [闪电网络](https://1ml.com/statistics): 闪电网络已经超过3万个channel了，总channel的BTC容量也超过700 BTC。🌹 推荐新工具： [1ml](https://1ml.com/)
+- **BTC** [闪电网络](https://1ml.com/statistics): 闪电网络已经超过3万个channel了，总channel的BTC容量也超过700 BTC。🌹 推荐新工具： [1ml](https://1ml.com/)
 	- [简单介绍](https://medium.com/coinmonks/intro-to-lightning-network-apps-lapps-b548c96ec13f) 简单但系统地介绍了闪电网络和一些应用场景。
 	- [关于lightning network你需要知道的一切](https://messari.io/resource/lightning-network) Messari为我们做了一个非常全面的Curated 内容
-	- [Lightning Specs v1.0](https://github.com/lightningnetwork/lightning-rfc/releases/tag/v1.0): 在[acinq](https://acinq.co/)，[blockstream](https://blockstream.com/)和lightning团队的同力合作下，lightning目前正式有了一个稳固的基金会！👍
+	- [Lightning Specs v1.0](https://github.com/lightningnetwork/lightning-rfc/releases/tag/v1.0): 在[acinq](https://acinq.co/)，[blockstream](https://blockstream.com/)和lightning团队的同力合作下，lightning目前正式有了一个稳固的基金会！
+	- **今日关注** 链闻采访了闪电网络专家币信的首席市场官熊越和花名为「Daniel Socials」，特别对于闪电网络的用途和落地场景做了一次[采访](https://www.chainnews.com/articles/295578407570.htm),最近闪电网络开始渐🔥。
 
-- **今日关注 ETH**: ConsenSys商业级解决方案[Pantheon 1.0](https://pegasys.tech/solutions/)正式发布。这是一个用java做的以太坊客户端，同时可以支持模块化操作，加入隐私、准入和新的其他算法。**甜甜圈评论** 这一步对于以太坊是有重要意义的，使得以太坊能够从公有链转而变为能够和联盟链和私有链的结合。扩大了以太坊的整体生态！
+- **ETH**: ConsenSys商业级解决方案[Pantheon 1.0](https://pegasys.tech/solutions/)正式发布。这是一个用java做的以太坊客户端，同时可以支持模块化操作，加入隐私、准入和新的其他算法。**甜甜圈评论** 这一步对于以太坊是有重要意义的，使得以太坊能够从公有链转而变为能够和联盟链和私有链的结合。扩大了以太坊的整体生态！
 
 - **ETH ERC**：Vitalik特别推了[ERC1775](https://github.com/ethereum/EIPs/pull/1775),基于应用层面保护隐私性的提议。相对于其他提案来讲，这个提案更务实，直接在讨论是否可以通过在地址创建、Dapp交互上的合作上来达成对于隐私的保护，这个被称为"低技术含量的隐私保护":-D 
 
@@ -67,23 +72,23 @@
 	>  "I view decentralization as a means to increase our freedom and security (at least self-control) while (hopefully) not sacrificing on ease-of-use." -- CZ
 
 	- [Binance未来的发展路径](https://www.binance.com/en/blog/300213018722623488/): 这篇是Binance CZ的AMA，其中提到了Binance会使用Cosmos的Tendermint Protocol的Fork了实现DEX。同时test版本在近一周就会上线，我们可以期待~
-	- [Trust Wallet](https://trustwallet.com/blog/video-contest): 币安钱包的推广开始加力，现在向社群征集宣传片video。 Trust Wallet现在有安卓和ios版本，甜甜圈。
-	- [Binancelabs]([Binancelabs](https://www.binancelabs.co/)) 蹭着ETHDencer的热度，期望孵化更多优质项目。顺便也在宣传[Trust Wallet](https://trustwallet.com/)
+
 	- [Binance DEX testnet上线](http://testnet.binance.org) 同时赵表示币安dex是币安链的第一个dapp，意味着还将有其他的dapp会部署在币安链上。
-	- **今日看点** [Trust Wallet](https://trustwallet.com/)的[核心代码开源](https://trustwallet.com/blog/wallet-core-launch), 客观讲Trust Wallet钱包开源真的是一个非常好的事情，任何人都可以考察这个跨平台多主链的钱包的代码，同时也可以主动联系钱包并上币。值得注意的是，这个钱包的开源还会通过gitcoin上的bounty来进行奖励的分发。👍
+	- [Trust Wallet](https://trustwallet.com/)的[核心代码开源](https://trustwallet.com/blog/wallet-core-launch), 客观讲Trust Wallet钱包开源真的是一个非常好的事情，任何人都可以考察这个跨平台多主链的钱包的代码，同时也可以主动联系钱包并上币。值得注意的是，这个钱包的开源还会通过gitcoin上的bounty来进行奖励的分发。 
+	- **今日关注** 3月5日 10:30 AM (Beijing Time), 赵长鹏CZ将进行第二轮的AMA，关注Binance的童鞋可以关注哈！  
 
 ### 近期深度文章
 
+-**今日推荐** [「BES 内部深度」公链经济机制的不可能三角](https://mp.weixin.qq.com/s/w57yORjXPvwxL_4LWL5sMQ): 文章认为公链的经济模型设计需要平衡三个维度：公平性、成长性、盈利能力。公平性指的是无人有特权，属于一种心理上、哲学上的优势和特点；成长性指的是代币价值稳定升值，目前比较直接的分析方法就是供给和需求，再往上则是被预期影响；盈利能力指的是团队生存，团队如何养活自己并对投资人交代。文章最后的谷歌链接有BES公开分享的所有公链的细节对比，值得一看。
 
-- [A Primer on Bitcoin Investor Sentiment and Changes in Saving Behavior](https://medium.com/@adamant_capital/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior-a5fb70109d32): 本文回顾了市场的几大估值模型后，提出了自己的一套比特币估值模型：一个是相对未实现盈利比上亏损，得出的曲线可以大致计算出顶部和底部的周期；另一个是对比HODLer的持仓变化。具体的计算细节文章并没有给出，可以通过联系作者，和他进行深入讨论。并且，作者也是海外币圈的一个KOL。
+-**今日推荐** [如何评价区块链论文？区块链相关学术会议级别大科普](https://www.chainnews.com/articles/093248364340.htm) 对于搞研究的小伙伴，本文必须收藏，相关学术会议作为区块链与学术界的对接桥梁，可以借此判断一些论文的影响力，进一步来判断下项目本身实力。
 
-- [Noted Hedge Fund Says Crypto Hasn't Bottomed Yet](https://www.forbes.com/sites/jeffkauflin/2019/02/19/noted-hedge-fund-says-crypto-hasnt-bottomed-yet/amp/): 去年因为做空以太币的Tetras Capital接受采访表示，目前整个市场还没到底部，只有当更多ICO项目倒闭，更多监管出台，这两大利空落地后，才是真正的底部。但对于比特币价格是否在底部，创始人偏中性，认为现在价格是个很好的位置，但仍然持有现金。同时创始人很关注匿名币，提到了Zcash、Monero和Grin。
-- [市值是衡量加密资产的通用指标，但是并不准确，还有哪些替代方案是业界在探索的？](https://mp.weixin.qq.com/s/cTGpPtQ-oHjqX_1005-zEw) 长文预警，从几个方面论述了现在用市值衡量项目的问题，以及一些变通的指标的各个不同适用情况，可以收藏。
-- [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2) 文章探索了用一种类似传销的方式来做慈善，结合了联合曲线来设计其中的模型。这里是橙皮书翻译的[中文版](https://mp.weixin.qq.com/s/V4jHi9G-uFDLahwOH5PFwA)
+-**今日推荐** [巨头救不了区块链：为什么我们不看好FB的稳定币](https://mp.weixin.qq.com/s/Nfgi8PCuNi-4mjV9L0aS2A) 大家都知道最近FB要发币的传闻沸沸扬扬，橙皮书提了三大不看好发币的理由：如何去中心化，去中心化在此应用场景下意义，有意义应用场景不确定性强。
 
-- **今日看点** [Maker、Dai、ETH是否是解决币价和稳定支付的优雅方案？](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590), 橙皮书已经有[翻译稿](https://www.chainnews.com/articles/697264999250.htm)。核心观点是ETH作为价值贮存载体，Dai作为支付流，而Maker则成为去中心化利益风险共担的网关。同时作者还认为我们需要一个绑定ETH的Dai，被作者成为ethDai。**甜甜圈评论** 甜甜圈认为，这个三角是一个伟大的实验，只是如果ethDai能够成立，甜甜圈更觉得 btcDai才应该首先被制造出来。
 
-- **今日看点** [交易所的永续合约是否是未来的方向](https://www.chainnews.com/articles/458762283159.htm)。星球日报关于目前众多交易所出来永续合约的现象进行了深入的报道。BitMEX 2019年1月交易量环比下降41%，这是一个事实。只是在甜甜圈看来，交易所做永续合约和衍生品是在市场萎缩的情况下一个不得不做的事情以托起交易所的现金流。当然，从侧面看来，目前交易所也将走到一个分叉路了。
+- [Maker、Dai、ETH是否是解决币价和稳定支付的优雅方案？](https://medium.com/@cyrus.younessi/an-elegant-relationship-dai-eth-mkr-4e4d5e69590), 橙皮书已经有[翻译稿](https://www.chainnews.com/articles/697264999250.htm)。核心观点是ETH作为价值贮存载体，Dai作为支付流，而Maker则成为去中心化利益风险共担的网关。同时作者还认为我们需要一个绑定ETH的Dai，被作者成为ethDai。**甜甜圈评论** 甜甜圈认为，这个三角是一个伟大的实验，只是如果ethDai能够成立，甜甜圈更觉得 btcDai才应该首先被制造出来。
+
+- [交易所的永续合约是否是未来的方向](https://www.chainnews.com/articles/458762283159.htm)。星球日报关于目前众多交易所出来永续合约的现象进行了深入的报道。BitMEX 2019年1月交易量环比下降41%，这是一个事实。只是在甜甜圈看来，交易所做永续合约和衍生品是在市场萎缩的情况下一个不得不做的事情以托起交易所的现金流。当然，从侧面看来，目前交易所也将走到一个分叉路了。
 
 
 
