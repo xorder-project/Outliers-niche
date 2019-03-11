@@ -85,7 +85,7 @@
 
 - **特别推荐！！！🌹🌹🌹** [脑洞：从 BNB 重解商品、证券、货币三位一体「超级载体」的未来意义](https://www.chainnews.com/articles/942975463413.htm)X-Order 甜甜圈的Robin在链闻上打响了货币战争的第一炮! 第一个将token通证结合商品、证券、货币三大属性的拓展性讲明白~X-Order的小伙伴们推荐大家好好读一下呢:-D
 
-- **今日关注**[Nervos CKB 经济模型提案正式发布](https://mp.weixin.qq.com/s/W6hKe7T2BG20HMgiaANHIA): Nervos一直是甜甜圈非常关注的项目，在比较了BTC和ETH的模型之后，他们综合考虑了安全性和可持续性以及如何更好的契合项目目标这三个因素，他们发布了Nervos的经济模型，提出了二次发行的概念，甜甜圈也还在学习中，推荐大家一定要学习下这个知名项目的经济模型，可能会对通证经济产生重大影响。
+- **今日关注**[Nervos CKB 经济模型提案正式发布](https://mp.weixin.qq.com/s/W6hKe7T2BG20HMgiaANHIA): Nervos一直是甜甜圈非常关注的项目，在比较了BTC和ETH的模型之后，他们综合考虑了安全性和可持续性以及如何更好的契合项目目标这三个因素，他们发布了Nervos的经济模型，提出了二次发行的概念，甜甜圈也还在学习中，这里还有一篇非常提炼了其中的亮点，推荐大家也一起读一下[Nervos中的四大亮点](https://www.chainnews.com/articles/904538149019.htm?from=timeline&isappinstalled=0)。
 
 - **今日关注**[Uniswap 会是下一个聚宝盆吗？](https://mp.weixin.qq.com/s/OSeruDzBvw6XTR9NBEHdaA): 这篇文章比较客观的介绍了Uniswap的模型，指出了最关键的点就是Uniswap的流动性提供者其实是用价格波动造成的损失去换取同样由于价格波动获得的套利交易费收益。近期Uniswap的流动性资金池增长非常迅速，未来如何，我们拭目以待。
 
