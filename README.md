@@ -80,7 +80,7 @@
 
 	- [Binance未来的发展路径](https://www.binance.com/en/blog/300213018722623488/): 这篇是Binance CZ的AMA，其中提到了Binance会使用Cosmos的Tendermint Protocol的Fork了实现DEX。同时test版本在近一周就会上线，我们可以期待~ 
 	
-	- **今日关注**[Binance DEX 新logo](https://www.binance.com/en/blog/312529121515560960/The-LastMinute-Genesis-of-the-Binance-DEX-Logo) Binance DEX的新的logo设计出来了，也在为Binance Dex最后上线做准备。客观讲，Binance的三维的logo真的很酷，没有像到能够增加另一个维度。指的是通往去中心化的道路？:-D
+	- [Binance DEX 新logo](https://www.binance.com/en/blog/312529121515560960/The-LastMinute-Genesis-of-the-Binance-DEX-Logo) Binance DEX的新的logo设计出来了，也在为Binance Dex最后上线做准备。客观讲，Binance的三维的logo真的很酷，没有像到能够增加另一个维度。指的是通往去中心化的道路？:-D
 	
 - 跨链：[cosmos](https://cosmos.network/) 采用了cosmos hub和peg zone的方式使得互不相通的各公有链有了交互的可能。这项目如此收到关注也是因为无论从技术还是从跨链带来的意义来看都值得探讨，甜甜圈搜集了一些文章从不同角度来论述了cosmos。
 	- [软硬核：彻底读懂 Cosmos 如何一键发链与万链互联](https://www.chainnews.com/articles/880557083907.htm)
