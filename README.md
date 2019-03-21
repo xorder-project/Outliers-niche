@@ -34,7 +34,7 @@
 
 - **市场热度** [Ontology](http://ont.io/)：Ontology最近变得比较热，可能一方面原因是TOP Network是Ont官方的合作对象，另一方面ont也在进一步扩张，关于sharding这块落地也在预期，而合作方包括红杉、真格。不过ont的总体体量已经比较大，其中ong的使用也是关键。大家可以多关注一下。
 
-
+- **市场热度** [Enjin](https://enjincoin.io/): Enjin项目持续火热，最近项目SDK上线Unity的 [AssetStore](https://twitter.com/AssetStore)，VR开发者可以很方便的使用enjin来在游戏中嵌入区块链并使用Enjin平台开发。同时正在GDC2019 参展的Enjin是 [GDC2019唯一的区块链参展商](https://twitter.com/enjin/status/1108555748332785664),确实看到Enjin所做的巨大努力。感谢@101
 
 ### 嗅觉: 
 - [Messari 直播](https://www.pscp.tv/w/1ynJOOygwoAJR): Messari从2月中旬开始做起了项目采访的直播了，这个直播在2017年末和2018年上半年非常的流行，只是随着tokenSale的式微而越来越没了人气，现在再一次随着市场的回暖而起来。
