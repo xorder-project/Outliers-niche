@@ -1,6 +1,6 @@
 
 
-## Outliers' niche 另类生境 2019-3-18 第49期
+## Outliers' niche 另类生境 2019-3-21 第50期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 
@@ -12,49 +12,39 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4072 — 4917万 TH/s| 本周上涨，波动扩张|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 669 — 826 万美元 | 本周上涨，波动扩张|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 22 — 38 BTC | 本周平稳|
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| 4405 — 5249万 TH/s| 本周上涨，波动扩大|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 736 — 881 万美元 | 本周上涨，波动扩大|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) | 17 — 38 BTC | 本周平稳，波动扩大|
 
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 146 — 153TH/s| 本周平稳，波幅平稳|
-|[转账笔数](https://etherscan.io/chart/tx)|48 — 57万|本周平稳，波幅平稳|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| 273 — 357 eth| 本周略降，波幅放大|
+|[Hashrate](https://etherscan.io/chart/hashrate)| 144 — 153TH/s| 本周平稳，波幅平稳|
+|[转账笔数](https://etherscan.io/chart/tx)|50 — 63万|本周上涨，波幅扩大|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| 273 — 2581 eth| 本周增加，3月18日出现异常大 |
 
 
 
 ### 热锅上的项目🔥
-- **市场热度 IEO进展** 中心化交易所依托其本身的信任，开始进行了一场基于交易所的通证发行，近阶段会有更多的项目选择IEO，而券商模式的[Tagomi](https://tagomi.com/)也值得关注。
-	- **消息 需要验证**Bittrex新IEO：在Bittrex的discord群中看到的消息，IEO项目为[Veriblock](https://www.veriblock.org)，同时也有在Bitcointalk上[回应](https://bitcointalk.org/index.php?topic=3133450.140)但发布此消息时，RAID的IEO还未被取消，所以不知道Veriblock是否还会上，有待观察。目前该项目的市值、流通量等信息均未公布。Veriblock期望将其他挖矿币的算力通过btc来支撑，当时一段时间贡献了btc20%的转账数，甜甜圈还特别有过[报道](https://newconomy.media/news/veriblock-now-accounts-for-20-of-all-daily-bitcoin-transactions/)。如果这个消息能够证实，请第一时间联系甜甜圈！
 
+- **市场热度 IEO进展** 中心化交易所依托其本身的信任，开始进行了一场基于交易所的通证发行比赛。区块律动做了一个[全面的汇总](https://www.theblockbeats.com/ieo)，近阶段会有更多的项目选择IEO:
 
-- 应用层：[KIN](https://www.kin.org/) Kin是一个非常特别的项目，一直用户非常活跃。是著名社交平台Kik Interactive自己发行的数字加密货币，kik号称有5千万用户，并有40%美国的青少年都在使用。虽然status不遗余力在打造加密货币的社交软件，但如kin这样的原本就是社交软件属性的项目的通证在经历了市场的洗礼之后反而会更多结合行业的特征来发展。3月13日，KIN项目方宣布开启代币迁移主网计划，用户需要将持有的ERC20代币通过特定钱包或交易所转换为主网原生代币。使得Kin活跃地址数和链上交易量出现较大增长。风险上KIN主网并未公布任何开源信息，其性能治理等关键要素并不透明，可能会就KIN是否具有证券属性和SEC可能进入司法仲裁。
+- **Huobi Prime**: [TOP network](https://www.topnetwork.org/) 第四代分布式通信网络，本质上是把原有的中心化通信系统做了一个链改。公司原有产品叫叮咚，是一款通信APP，可以用于收发短信和语音通话。据称现有一个亿营收。下个月testnet上线，实现了分片和7000+TPS。该项目**3月26号**上线火币Prime。公开信息显示，项目IEO额度为300+万美元，价格比种子轮低，同时还会发5%的币给顾问，即上线后有600+万美元的流通盘。TOP network背后有huobi capital，如果火币开始步入正轨，把过去那些错误决策纠正，如搞火信（已失败），海带丝（接近失败），大量海外办公场所（已关掉大部分），那这个币开盘在3倍以内都可以买入。**风险提示** 此项目的风险在于：1.火币设置了大量规则和门槛，未来可能会因为这些规则反受其害，影响信誉；2.火币目前并未公开什么时候开始上线，因为其IEO的规则显示只有保底价，没有固定价，因为参加IEO只能市价，如果是募集完就马上上线，可能会导致大量市价买卖而出现价格混乱，如果是有几天间隔，因为中国用户可以参与，那可能会产生某些有很多号的人拿到了大量额度，期间又转手倒卖，如何界定他们行为是否合规？因为解释权在火币；3.火币显示种子、私募轮等有几个月的解锁时间，但并没有明示锁仓的起点时间是什么时候，但据大炮评级的爆料，种子、私募是没拿到币的。
 
+- **市场热度** [Ontology](http://ont.io/)：Ontology最近变得比较热，可能一方面原因是TOP Network是Ont官方的合作对象，另一方面ont也在进一步扩张，关于sharding这块落地也在预期，而合作方包括红杉、真格。不过ont的总体体量已经比较大，其中ong的使用也是关键。大家可以多关注一下。
 
-
-### 交易所观察:
-
-- [Kucoin](https://www.kucoin.com): KCS目前cmc排名66，流通市值约7400万美元。在Alexa做的网页流量排名上看，kucoin排在全球1万左右，而okex在8000左右，火币在2万左右，即kucoin的流量并不差，并且有海外用户。并且有消息称kucoin将在月底或下个月初进行IEO，已选定了三个项目，且仅支持KCS。
 
 
 ### 嗅觉: 
-- [Kakao 旗下区块链子公司 Ground X 获得9千万美元融资](https://www.coindesk.com/kakaos-blockchain-arm-raises-90-million-in-private-token-sale): 这次融资通过代币私募进行，kakao是韩国最大的社交软件，再结合本期的Kin, 可以看到社交软件的通证化将成为一个趋势。
+- [Messari 直播](https://www.pscp.tv/w/1ynJOOygwoAJR): Messari从2月中旬开始做起了项目采访的直播了，这个直播在2017年末和2018年上半年非常的流行，只是随着tokenSale的式微而越来越没了人气，现在再一次随着市场的回暖而起来。
+
 
 
 ### Dapp未来的应用: 
 
-- **支付工具**[Cryptostaw](https://medium.com/matic-network/tackling-the-adoption-issue-one-dapp-at-a-time-e756fbabfea0)点对点的便捷支付，尤其如同支付宝和微信支付那么方便，目前有众多项目在做，而[cryptostaw](https://cash.cryptostaw.com/)则期望实现这种便捷的方式，并扩展到所以币种上。可以想象，如同支付宝这样的多通证使用场景应该很快就会到来。
 
-
-- [Kin生态介绍](https://kinecosystem.org/): 
-	- [kik](https://www.kik.com/): kik是非常早的一款跨平台聊天工具，超过1/3的用户都在16-24岁。这也是Kin的发行方。所以，如果大家有兴趣，可是试试看Kik这块软件。在聊天的无意中，就有了Kin的钱包，同时由于Kin被分割成非常非常小的单位，之前连1聪都不到，因此也特别适合分发。
-	- [perfect 365](https://www.perfect365.com/):这是另一款kin生态下非常🔥的app，主要做的是化妆品和美颜类的社区，因为对象都是爱美女性，因此似乎和标准的数字货币持有对象很不同，但是也是一个非常好的空缺的生态位。在Kin和Perfect365之间的集成系统允许用户通过回答调查获得Kin代币。一旦他们赚到了钱，他们就可以用代币在Perfect365上访问高级特性。这种近乎无成本的方式会使得perfect365上的用户很容易就上手kin钱包。可以持续关注，尤其是爱美的小伙伴:-D。
-	- [madlipz](https://madlipz.com/):目前中国抖音很火，而madlipz则很抖音很类似，不过他使用的是为一些电影片段搞笑配音，让人啼笑皆非的一款app。和Kin的合作是在2018年12月份发的blog。因为madlipz是一款典型的用户产生内容的分享app，所以使用kin当时能实现奖励创造和吸引用户的功能。
-
-
+- [万智牌生态链改](https://mp.weixin.qq.com/s/c8_ASZf95VO5CaF2pnY6Nw) 本篇所述的新游戏Red and blue是基于区块链的TCG集换卡牌游戏。预计在今年Q3上线，将直接登陆APPSTORE，googleplay和steam等主流游戏平台，创始人为游戏业老兵Noah。甜甜圈可以看到现在逐步传统游戏界有很多团队开始真正界入区块链行业，可以预见未来的DAPP不会被菠菜霸屏，我们期待更好的链游的未来。
 
 
 ## Habitat 另类生境之栖息地
@@ -68,8 +58,8 @@
 	- [bitmex Research](https://blog.bitmex.com/research/): 搭建的闪电网络节点容量不断增加，[数据](https://1ml.com/node/0395033b252c6f40e3756984162d68174e2bd8060a129c0d3462a9370471c6d28f/history)
 	- [给初学者的闪电网络指南](https://www.chainnews.com/articles/219134762084.htm):X-Order 的好伙伴小岛写了一篇知道初学者认识闪电网络的文章，并深入浅出的通过讲解bitcoin tx中关键字段nLockTime 与 sequence number来带入对于闪电网络的讲解。特别赞！大家可以看一下哈~
 
-- **ETH 应用Payment**: [Dai Card](https://daicard.io/):这是一个非常有趣的零钱钱包，目前已经上了ETH主网。可以作为零钱的支付通道，并通过Dai来购买小商品或者作为礼物🎁。这个网页版的钱包的目的就是让小额支付变得容易。
-
+- **ETH 应用**: [tryEth](https://tryethereum.today/):今天向大家推荐一个快速了解和使用ETH生态的平台，tryEthereum，从交易所到钱包，到开放金融到去中心化工作。小伙伴们可以在这里做一个导航！
+- **ETH 社区**: [ProgPow 通过](https://www.etherchain.org/charts/progpow): 社区再次投票通过了progPow，甜甜圈之前提到第一次progPow并没有被通过，比较最终的方向是pos，现在的矿机日子也本来就不多了。不过以太坊社区还是很认真的，觉得progPow应该部署，显卡挖矿应该支持。区块律动的小伙伴们刚刚发了一篇深度文章：[ProgPow背后的利益之争](https://www.chainnews.com/articles/287914796819.htm)，小伙伴们可以参考一下。
 
 
 - **Binance 生态**：
@@ -80,32 +70,29 @@
 
 	- [Binance未来的发展路径](https://www.binance.com/en/blog/300213018722623488/): 这篇是Binance CZ的AMA，其中提到了Binance会使用Cosmos的Tendermint Protocol的Fork了实现DEX。同时test版本在近一周就会上线，我们可以期待~ 
 	
-	- [Binance DEX 新logo](https://www.binance.com/en/blog/312529121515560960/The-LastMinute-Genesis-of-the-Binance-DEX-Logo) Binance DEX的新的logo设计出来了，也在为Binance Dex最后上线做准备。客观讲，Binance的三维的logo真的很酷，没有像到能够增加另一个维度。指的是通往去中心化的道路？:-D
+	- **今日关注 支付**[Binance 让澳大利亚人能够使用现金购买BTC](https://www.coindesk.com/binance-launches-bitcoin-buying-at-over-1300-australian-stores?hootPostID=5de355f31eb095b3d5b3329b6160960b): 币安在不断发展网关，这次的网关是Binance Lite Australia， 在澳大利亚部署1300个店，在店中可以直接通过法币购买BTC，网关的收费是5%，也算合理。
+	- **今日关注 支付** [Binance和Simplex合作支持在平台用信用卡支付](https://www.binance.com/en/blog/297658163885826048/Binance-Enables-Credit-Card-Payments-Through-Simplex-Partnership-Furthering-Crypto-Adoption-Worldwide): 使用信用卡购买数字货币，曾经都是可以的，只是现在不可以的，现在binance重新用正规的方式来推荐这个事情的落地。
 	
-- 跨链：[cosmos](https://cosmos.network/) 采用了cosmos hub和peg zone的方式使得互不相通的各公有链有了交互的可能。这项目如此收到关注也是因为无论从技术还是从跨链带来的意义来看都值得探讨，甜甜圈搜集了一些文章从不同角度来论述了cosmos。
-	- [软硬核：彻底读懂 Cosmos 如何一键发链与万链互联](https://www.chainnews.com/articles/880557083907.htm)
-	- [Cosmos 的前世今生、未来前景和投资价值](https://www.chainnews.com/articles/362844963804.htm)
-	- [Cosmos上线主网了，但是“为什么需要跨链”依然有待探寻](https://mp.weixin.qq.com/s/az2XnCJDdMi3LrukKY3ypQ)
-	- [区块链的互操作性：Cosmos vs Polkadot](https://mp.weixin.qq.com/s/s3tiuQZLLQGsEyPsCd4quQ)
+
 
 ### 近期深度文章
 
-- **特别推荐！！！🌹🌹🌹** [脑洞：从 BNB 重解商品、证券、货币三位一体「超级载体」的未来意义](https://www.chainnews.com/articles/942975463413.htm)X-Order 甜甜圈的Robin在链闻上打响了货币战争的第一炮! 第一个将token通证结合商品、证券、货币三大属性的拓展性讲明白~X-Order的小伙伴们推荐大家好好读一下呢:-D
+- **不同观点**[关于IEO的讨论](https://www.zhihu.com/question/315710808/answer/625541314)：作者提到IEO实际上是交易所在充分竞争和博弈下，为了长期利益而采取的手段。过去ICO模式虽然也审核，但因为上币费，交易所内部腐败寻租等，要么收割项目方，要么和项目方联合收割，现在的IEO，实际上是交易所起到了监管资金等作用。这也是IEO比STO更快普及和火爆的原因，让市场自己来做监管。未来IEO还会更加进化和完善。Leslie Ankney也持有这个观点，他在《趋势：数字资产托管人将进入加密货币领域？》中这个观点阐明，链闻有[译文](https://www.chainnews.com/articles/417353054214.htm)
+
+- **今日关注** [无尽的环形监狱：从美国历史上三次“隐私事件”看今天](https://mp.weixin.qq.com/s?__biz=MzA4MzE1MzQ3MA==&mid=2450141630&idx=1&sn=04b1190a715668324b1a41585d0eae57&chksm=880456efbf73dff982fcc3631006f059e14820295a801db049ffba50eb46283a2c4e2d61e95b&xtrack=1&scene=0&subscene=131&clicktime=1553125331&ascene=7&devicetype=android-28&version=2700033b&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAL2ZHgDZmR4A3JkeAAAA&lang=zh_CN&pass_ticket=ZJ8%2BACVlhGuqcv84a1JUUwXbgwIn9nhqGli7hGhBdR6%2FdDtsDgzbGMnH4jbB1GHB&wx_header=1) 隐私和便利的权衡到底会怎么样发展，作者从历史上的三次事件来看隐私保护这个意识是如何发展起来的，必须要经历一次大的伤害和事件才会引起人们足够的重视，本文可以结合这篇[为什么一夜之间，大家都在抵制 Coinbase？](https://www.chainnews.com/articles/960779358506.htm)一起阅读，能更好的体会匿名币未来的潜在价值。
+
+- **今日关注** [Multicoin：论 Layer 1 和 Layer 2 的价值捕获](https://mp.weixin.qq.com/s?__biz=MzI1Mzk4ODIwOA==&mid=2247487923&idx=1&sn=a29b36984ebac7a719399e356f494720&chksm=e9cd4dacdebac4babc402a84ebb2aa56423c1815071b310285b9e2e1e37f51328ecffb009198&xtrack=1&scene=0&subscene=131&clicktime=1553126858&ascene=7&devicetype=android-28&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAL2ZHgDZmR4A3JkeAAAA&lang=zh_CN&pass_ticket=ZJ8%2BACVlhGuqcv84a1JUUwXbgwIn9nhqGli7hGhBdR6%2FdDtsDgzbGMnH4jbB1GHB&wx_header=1) 虽然本文中的一些具体的观点甜甜圈不是很认可，包括提出安全预算的计算方式，但是其提出的问题确实非常关键。现在一些高端的公链项目包括Nervos在设计之初就在考虑通证模型该如何捕获链上价值，一个好的通证确实应该可以捕获到整个链上生态价值。建议阅读并思考。
 
 - **开放式金融**最近逐步火热起来了，可能最早源于以下Andrew Wong的一篇文章
 
-  - [The next FinTech: Global “Open Finance”Infrastructure](https://medium.com/macro-narratives-in-blockchain/the-next-fintech-global-open-finance-infrastructure-90ac093a411b?sk=4b93ab31d65bbfbb15dfe448d64c8d27) ，[中文版](https://www.chainnews.com/articles/999172600249.htm)，提出了金融从Fintech一路逐步发展的过程，并给出了个新的开放式金融系统的下的各基础设施的框架，值得琢磨
+  - [*The next FinTech: Global “Open Finance”Infrastructure*](https://medium.com/macro-narratives-in-blockchain/the-next-fintech-global-open-finance-infrastructure-90ac093a411b?sk=4b93ab31d65bbfbb15dfe448d64c8d27) ，[中文版](https://www.chainnews.com/articles/999172600249.htm)，提出了金融从Fintech一路逐步发展的过程，并给出了个新的开放式金融系统的下的各基础设施的框架，值得琢磨
 
   - [简单的 SQL 数据库将成为历史，开放性金融协议就是未来](https://www.chainnews.com/articles/397016215262.htm)  文章提出很关键的一点，开发性金融可以降低金融技术创业者的门槛，从而带来更蓬勃的生态。有兴趣的还可以阅读下[原文](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)
-
 - [复盘：从未停止下注的 NGC 资本如何在熊市投资 Grin](https://www.chainnews.com/articles/688983667457.htm) 我们NGC小伙伴们的一次成功投资经历分享，值得品味。
-
-- **今日关注 基金视角** [a16z 微软和脸书，信任和隐私](https://www.ben-evans.com/benedictevans/2019/3/13/0mboxl0imfh636ggky829vnweu2qpv): a16z的合伙人Benedict Evans最近发布了一篇长文，类比了脸书目前面临的问题和微软在电脑普及时代所面临的问题。当21世纪初期微软占领了大部分操作系统市场的时候，恶意软件就开始盛行，比尔盖茨就发布了[可靠计算](https://www.wired.com/2002/01/bill-gates-trustworthy-computing/)一文，强调软件的安全性。而社交软件的安全性则成为目前时代最大的问题。所以脸书目前面临的问题其实就是整体社交网络web3.0要解决的最核心的问题：信任和隐私保护。facebook已经开始尝试其稳定币了，当然我们可以从金融的角度思考这个问题，但是另一个从网络信任和隐私保护的角度，我们会发现，facebook走数字货币的道路是不得不走的。👍
-
-- [下一次金融危机是否即将到来](https://blog.bitmex.com/anatomy-of-the-next-global-financial-crisis/) 这是Bitmex Research 2月份发布的研究报告，特别通过数据探讨了金融危机目前到了的可能性。这篇研究报告的核心观点是：1.下一个金融危机的到来是不可避免的；2.金融危机将利好bitcoin；3.下一次金融危机呈现的状态和前一次区别不大，这主要源于目前的金融系统内在的问题。然后通过数据比较了债务、流动性等问题。目前甜甜圈特别关注金融危机，也期待喜欢小伙伴的讨论。 
-
-
-- **今日关注** 去中心化交易所: [挑战领头去中心化交易所 Uniswap](https://www.chainnews.com/articles/340593667322.htm): 这篇文章是Unitimes对于 Uniswap创始人Hyden Adams的一次采访。我们之前一篇深文[Uniswap 会是下一个聚宝盆吗？](https://mp.weixin.qq.com/s/OSeruDzBvw6XTR9NBEHdaA)客观介绍了Uniswap的模型，指出Uniswap的流动性提供者其实是用价格波动造成的损失去换取同样由于价格波动获得的套利交易费收益。而这次采访则可以让我们深入了解Uniswap的一些细节。Uniswap使用了一个由Vitalik提出的“恒定乘积做市商”AMM的模型，提供流动性的人将一定的比例的两种代币放入池中，所有的交易都有 0.3% 的费用，最后返给提供流动性的人。由于这是通过智能合约锁定的，因此能够保证Uniswap本身并不从中受益，所以Hyden很坦白的讲，他做这个项目的初衷是一个公益项目:-D。我们可以通过 [Uniswap.info](http://beta.uniswap.info/)来查看整个池子。
+- **特别推荐！！！🌹🌹🌹** [脑洞：从 BNB 重解商品、证券、货币三位一体「超级载体」的未来意义](https://www.chainnews.com/articles/942975463413.htm)X-Order 甜甜圈的Robin在链闻上打响了货币战争的第一炮! 第一个将token通证结合商品、证券、货币三大属性的拓展性讲明白~X-Order的小伙伴们推荐大家好好读一下呢:-D
+- **今日关注** [下一次金融危机是否即将到来](https://blog.bitmex.com/anatomy-of-the-next-global-financial-crisis/) 这是Bitmex Research 2月份发布的研究报告，特别通过数据探讨了金融危机目前到了的可能性。这篇研究报告的核心观点是：1.下一个金融危机的到来是不可避免的；2.金融危机将利好bitcoin；3.下一次金融危机呈现的状态和前一次区别不大，这主要源于目前的金融系统内在的问题。然后通过数据比较了债务、流动性等问题。目前甜甜圈特别关注金融危机，也期待喜欢小伙伴的讨论。 
+- [Nervos CKB 经济模型提案正式发布](https://mp.weixin.qq.com/s/W6hKe7T2BG20HMgiaANHIA): Nervos一直是甜甜圈非常关注的项目，在比较了BTC和ETH的模型之后，他们综合考虑了安全性和可持续性以及如何更好的契合项目目标这三个因素，他们发布了Nervos的经济模型，提出了二次发行的概念，甜甜圈也还在学习中，这里还有一篇非常提炼了其中的亮点，推荐大家也一起读一下[Nervos中的四大亮点](https://www.chainnews.com/articles/904538149019.htm?from=timeline&isappinstalled=0)。
+- [Uniswap 会是下一个聚宝盆吗？](https://mp.weixin.qq.com/s/OSeruDzBvw6XTR9NBEHdaA): 这篇文章比较客观的介绍了Uniswap的模型，指出了最关键的点就是Uniswap的流动性提供者其实是用价格波动造成的损失去换取同样由于价格波动获得的套利交易费收益。近期Uniswap的流动性资金池增长非常迅速，未来如何，我们拭目以待。
 - [科斯经济学与机械钟：技术如何影响我们这个社会?](https://mp.weixin.qq.com/s/tGmrNSlKYCfV8R3MOd_x_w): “市场正在吃掉这个世界”，从经济社会发展的历史演变来看导致经济结构改变的最终要因素——交易成本，并举例论述了技术发明是如何在社会发展过程中不断降低交易成本推动结构变化，也指明了结构变化的方向。
 
 
