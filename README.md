@@ -62,6 +62,7 @@
   - [关于lightning network你需要知道的一切](https://messari.io/resource/lightning-network) Messari为我们做了一个非常全面的Curated 内容
   - [bitmex Research](https://blog.bitmex.com/research/): 搭建的闪电网络节点容量不断增加，[数据](https://1ml.com/node/0395033b252c6f40e3756984162d68174e2bd8060a129c0d3462a9370471c6d28f/history)
   - **今日关注** [tippin.me](https://tippin.me/dashboard.php?s=extension): tippin.me和twitter合作，现在通过tippin插件和lightning网络，可以在twitter上直接给小费。这种直接镶嵌在内容上的支付接口甜甜圈非常看好！👍
+  - **今日关注** [Lightning Power Users](https://lightningpowerusers.com/home/)发布，提升Lightning Power用户体验
 
  
 - **ETH 应用**: [Raiden & Dappnode](https://twitter.com/raiden_network/status/1113492536285433860): 雷电网络之所以很难获得应用在于一个区块链的局域网环境比较难以建立，而Raiden和Dappnode合作能够有效扩展Raiden的节点数和网络普及度。期望这次合作能够增加[raiden网络的实际普及度](https://twitter.com/raiden_network/status/1113492536285433860)。
