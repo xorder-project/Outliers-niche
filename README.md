@@ -91,7 +91,7 @@
 
 - **Staking POS**：
 业内另一个趋势是由于以太坊的带动，很多项目设计之初就是POS方式的，随着越来越多的项目主网上线后，形成了一股节点staking的风潮，甚至有专门做节点生意的公司获得了融资。我们现在会逐步整理staking相关的机构和项目，以及相关的介绍文章和资源供大家参考。
-  - **今日关注🌹🌹** [**NGC StakeX | Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
+  - 🌹🌹**今日关注** [**NGC StakeX Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
   - **今日关注** [Tezos的烘焙Staking,过去现在和未来](https://www.chainnews.com/articles/522962247929.htm): Tezos这个项目从非常著名到撕逼后的消沉再到当下成为staking economy的扛旗者，他的LPOS的算法及自治系统和新的编程语言Michelson，小伙伴有多少熟悉呢？这篇文章深入浅出的为我们揭开tezos的神秘面纱和最新进展。
   - [Stakingrewards](https://stakingrewards.com/global-charts)：这个工具能够帮助我们评估staking哪个token更有价值。非常酷！谢谢@123的贡献~
   - 知名节点运营商：[Staked.us](https://staked.us/), [Wetez](https://www.wetez.io/), [火币矿池](https://www.huobipool.com/pos/)， [P2P Validator](https://p2p.org/), [Stakewith.us](https://stakewith.us/)
