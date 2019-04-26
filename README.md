@@ -92,7 +92,7 @@
 - **Staking POS**：
 业内另一个趋势是由于以太坊的带动，很多项目设计之初就是POS方式的，随着越来越多的项目主网上线后，形成了一股节点staking的风潮，甚至有专门做节点生意的公司获得了融资。我们现在会逐步整理staking相关的机构和项目，以及相关的介绍文章和资源供大家参考。
   - 🌹🌹[**PIN** **NGC StakeX Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
-  - **今日关注** [干货 | Staking Economy 运营专家完全手册](<https://www.chainnews.com/articles/856811879389.htm>) Wetez作为staking服务提供商，详细的剖析了普通用户参与staking需要了解的各方面因素，并且给出了7种产品设计思路，建议所有想要参与staking的小伙伴们仔细阅读。
+  - **今日关注** [干货 Staking Economy 运营专家完全手册](https://www.chainnews.com/articles/856811879389.htm) Wetez作为staking服务提供商，详细的剖析了普通用户参与staking需要了解的各方面因素，并且给出了7种产品设计思路，建议所有想要参与staking的小伙伴们仔细阅读。
   - [Tezos的烘焙Staking,过去现在和未来](https://www.chainnews.com/articles/522962247929.htm): Tezos这个项目从非常著名到撕逼后的消沉再到当下成为staking economy的扛旗者，他的LPOS的算法及自治系统和新的编程语言Michelson，小伙伴有多少熟悉呢？这篇文章深入浅出的为我们揭开tezos的神秘面纱和最新进展。
   - [Stakingrewards](https://stakingrewards.com/global-charts)：这个工具能够帮助我们评估staking哪个token更有价值。非常酷！谢谢@123的贡献~
   - 知名节点运营商：[Staked.us](https://staked.us/), [Wetez](https://www.wetez.io/), [火币矿池](https://www.huobipool.com/pos/)， [P2P Validator](https://p2p.org/), [Stakewith.us](https://stakewith.us/)
@@ -106,7 +106,7 @@
   - [Staking Economy：一文读透 PoS 机制、哲学、远大前程和现实挑战](<https://www.chainnews.com/articles/362961647008.htm>) 比较全面的描述了POS机制的历史到现在的变化过程，并且从技术角度也指出了POS机制可能存在的一些问题和相应解决方案，作为每一个想要参与staking economy的人，都应该对此有所了解。对POS经济模型感兴趣的研究人员也可以顺着这条脉络深挖一下。
   - [一文读懂 Staking Economy 的两大风险：Slash 与锁定周期](https://www.chainnews.com/articles/827157684154.htm) 在staking大热中，本文谈及了两个节点在实际运营中会遇到的风险：1）由于运营问题导致的slash的激励和抵押金惩罚；2）staking锁定周期导致的机会成本高企。可以帮助更理性看到staking这件事。
   - [一文说透 Staking Economy 真正精髓：请主动参与！](https://www.chainnews.com/articles/012245786977.htm?fbclid=IwAR1keop8h0ov8srRMCPr3lCuCw8xAKWx4PlGv_LrVIxiIixISifBIurkf-8) 本文提出了在stakings时代，投资者主动参与是一个投资策略的有趣视角，并再一次呼吁社区不要放弃自己staking权益。甜甜圈表示赞同，staking时代，透着初期可能看重利息收入，但未来可能被利息收入逐步过渡到对治理的重视。
-  - [Stake to Play Token Economics: Exploring Work Tokens](https://blockchainatberkeley.blog/stake-to-play-token-economics-exploring-work-tokens-7e1b30ec53dc) 本文提到了work token的概念，即相对于传统的stake获得利息而言，提出了Stake to work的概念，文中提到很多项目是通过staking来获得提供服务的机会以及保障服务质量。这个模式很多项目已经在他们的经济模型中应用，在pos逐步被大众知晓后，随着项目逐渐落地，stake to work也许也能从白皮书中逐渐进入公众视野
+  - **今日关注** [Stake to Play Token Economics: Exploring Work Tokens](https://blockchainatberkeley.blog/stake-to-play-token-economics-exploring-work-tokens-7e1b30ec53dc) 本文提到了work token的概念，即相对于传统的stake获得利息而言，提出了Stake to work的概念，文中提到很多项目是通过staking来获得提供服务的机会以及保障服务质量。这个模式很多项目已经在他们的经济模型中应用，在pos逐步被大众知晓后，随着项目逐渐落地，stake to work也许也能从白皮书中逐渐进入公众视野
 
 
 ### 近期深度文章
