@@ -1,4 +1,4 @@
-## Outliers' niche 另类生境 2019-4-26 第60期
+## Outliers' niche 另类生境 2019-4-22 第59期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 
@@ -11,42 +11,42 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| **3663** — **5148**万 TH/s|一周平稳，波动加大|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | **854** — **1185** 万美元 | 一周平稳，波动加大|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) |  **50** - **131** BTC | 一周**反弹**，波动加大|
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| **4163** — 4830万 TH/s|周末平稳，波动收缩|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | **899** — 1040 万美元 | 周末平稳，波动收缩|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) |  **58** - 78 BTC | 周末**下降**，波动平稳|
 
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 147 — 152 TH/s| 一周平稳，波幅平稳|
-|[转账笔数](https://etherscan.io/chart/tx)|63 — **72**万|一周平稳，波幅平稳|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| **311** — **390** eth| 一周平稳，波幅收缩 |
+|[Hashrate](https://etherscan.io/chart/hashrate)| **147** — **151** TH/s| 周末平稳，波幅收缩|
+|[转账笔数](https://etherscan.io/chart/tx)|**63** — 70万|周末平稳，波幅平稳|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| **290** — 450 eth| 周末略下降，波幅平稳 |
 
 
 
 ### 热锅上的项目🔥
 
-- **市场预警 IEO** 中心化交易所依托其本身的信任，开始进行了一场基于交易所的通证发行比赛。区块律动做了一个[全面的汇总](https://www.theblockbeats.com/ieo)，近阶段会有更多的项目选择IEO。快钱总是不长久的，甜甜圈🍩友情提醒：**天下没有持续的免费午餐。**
-- **市场预警** [**USDT 的母公司tether 8亿美金储备金被bitfinex挪用**](https://ag.ny.gov/press-release/attorney-general-james-announces-court-order-against-crypto-currency-company-under): 如果知道USDT占据了稳定币市场80%的份儿，就会意识到这个问题的严重性了。稳定币USDT对于数字货币市场可以算是和法币的一个重要通道，而数字货币市场的的优势就是去信任，但却发生了这一信任问题，对于整体行业特别不利。
-- **市场热度** [**Binance DEX 第一个项目可以交易，项目申请流程公布**](https://community.binance.org/t/guidelines-on-how-to-list-your-token-on-binance-dex/1596)：BNB正式从ERC20代币变为了BNB DEX主网的代币之后，[币安链](https://www.binance.org/)的主网浏览器和网页版钱包也都可以使用了，而第一个项目也成功可以在DEX上可以交易 [MITH](https://www.binance.org/en/trade/MITH-C76_BNB)。而申请的项目都会首先在[社区论坛](https://community.binance.org/)展示，如同BTT一样。甜甜圈🍩友情提醒：binance DEX使用的域名后缀是`.org`,而中心化交易所使用`.com`，请小伙伴注意区分。
-- **市场热度** [**Binance launchpad: Matic**](https://launchpad.binance.com/en/lottery/50e5b04707b44d4aa4478739477d8a57): IEO如火如荼，而Binance的IEO似乎却冷清了，中签率到了58%，[项目研报Matic](https://info.binance.com/en/research/MATIC-2019-04-01.html)，在layer2的Plasma领域，Matic算得上技术上比较开放，同时文档也写得很好。只可惜目前对于plasma的需求还没有到时点，同时整个项目团队以技术开放为主。甜甜圈🍩觉得，客观讲这个项目应该是一个不错的技术主导的项目，让我们回到项目本质！
+- **市场警惕 IEO** 中心化交易所依托其本身的信任，开始进行了一场基于交易所的通证发行比赛。区块律动做了一个[全面的汇总](https://www.theblockbeats.com/ieo)，近阶段会有更多的项目选择IEO。但是，IEO在bitmax过山车的行情下，危险已经有所浮出。甜甜圈🍩友情提醒：**天下没有持续的免费午餐。**
+- **市场热度** [**Binance DEX明天token swap**](https://twitter.com/Binance_DEX/status/1118859357729333248)：Binance总是守约同时又超过预期的，主网突然上线 **4月23日**，BNB也正式从ERC20代币变为了BNB DEX主网的代币。同时Binance 将这个主网互换代币规则和流程已经公布：[BNB主网代币互换公告](https://github.com/binance-chain/BEPs/blob/master/BEP2.md), 并且建立了类似比特币BIP的[BEP2](https://github.com/binance-chain/BEPs/blob/master/BEP2.md)来描述BNB 主网token的功能和使用方式。甜甜圈🍩正在期待币安链的主网浏览器和网页版钱包的正式上线。
+- **市场热度** GT昨天下午4点已经开盘，相比其最初的0.4USDT的IEO价格，总体收益在2倍左右。考虑到近期其将连续上线CNNS，以及DREP，后期不排除有短期投机可能性。下面介绍下其startup最近上线的两个项目
+	- [CNNS](<https://cnns.io/>) 致力于打造一个服务于投资的综合性平台，用户可以获取投资资讯，进行资产管理等。从其官网来看和币世界走的很近，其团队成员市场总监就是币世界团队成员，有可能是币世界主导包装的一个项目，可能主体就是币世界本身。其通证发行总量100亿，私募价格为0.015USDT，公募价格0.006USDT。上线流通量13亿。场外OTC价格已经5倍接近0.02USDT。
+	- [DREP](<https://www.drep.org/>) 致力于打造基于区块链技术的“连接器”和“工具箱”，主要用户群针对开发者，提高开放的便利性。创始人为前量子团队成员。之前有4轮募资，募资价格分别为0.00539/0.00655/0.00693/0.0077USDT，本轮Startup价格为0.0051USDT。
+
 
 
 ### 嗅觉: 
+- [加密货币基金管理公司Gamma gf.network与amber AI合作成立](https://www.amberaigroup.com/): 专注于加密货币的香港对冲基金Amber AI目前和gf.network的合作尤其引人注意，Gamma专为高净值人群自己管理服务。这也可以看到，富人对于加密货币资产配置的需求日益剧增。包括Casa之前的盈利也可见一斑。
+- [1token 开放程式化交易平台](https://1token.trade): 券商直接提供量化回撤平台？这对于传统市场的券商似乎很遥远，但是在数字货币领域，这种尝试却格外引人注目。1token的发展很快，已经聚合了Binance、火币、gate，目前正在和coinbase谈。对于程式化交易的小伙伴可以试试哈！ 
 
-- [ChainX充值挖矿](https://wallet.chainx.org/)：ChainX采用的是充值+投票挖矿，目前测试网支持BTC和poldadot（映射）的充值挖矿。相较于其他POS抵押自己的代币获得收益，ChainX采用抵押其他资产获得收益，在初期更能捕获用户，是一个比较聪明的方法。感兴趣的小伙伴可以试一试。
-- **大企业**[三星正在研发基于基于以太坊的主链并可能发币](https://twitter.com/michaeldacosta/status/1121157073335504910): 区块链已经被大企业拥抱已经不是一个秘密，只是每个大企业基于自己生态的考虑，似乎都在期望能够发一个财团内的通证。三星这次的曝光也展示了这种倾向。包括之前facebook的高调宣传，我们能够看见大企业加速入场的态度，同时也能看见整个数字货币格局的变化。
-- [skew](http://www.sk3w.co/index) : 一个专注于数字货币衍生品相关指标的网站，包括了期货和期权的指标。非常专业，可以参考。
+- [**bitvol**](https://bitvol.info/index.html) 一个可以观察比特币和莱特币历史波动率的工具网站，分别可以比较30、60、120、365天的波动率。目前比特币30天的波动率为3.54%。
+
 
 ### Dapp未来的应用: 
 
-- **应用** [Defi 之通证集市Airswap](https://instant.airswap.io/tokens): 有没有想过token如同商品在集市一样被购买，集市中询问摊贩，然后摊贩给出商品并所有量。Airswap整体设计就如同一个集市，相对于uniswap干净的token兑token的一对一兑换，airswap把通证都显示出来。当然也是otc，不过这个设计的感觉确实比较特别。小伙伴们可以试试~ 
-
-- **落地应用** [Metro 硬件钱包](https://www.eosmetro.io/):作为EOS的超级节点和KOL，EOS New York一直不遗余力的推动 EOS生态的发展。而这个如同U盘一样的硬件钱包着实有意义。U盘作为硬件钱包又小有方便。预定一个?
-
-- **公链生态**[TomoChain正式上线DappReview](https://dapp.review/explore/tomo)。作为“越南第一公链”，TomoChain一直按照路线图稳步发展，目前生态已经有十个Dapp。近日DappReview也整合了TomoChain的Dapp数据。另外，Tomochain目前也在举办[Dappathon](https://tomochain.com/tomochain-game-contest/)。
-- **Staking Economy带来的Dapp应用。**目前Imtoken,cobo,wetez等钱包都已经开启了“Staking Economy Dapp”。在钱包中接入每个项目的节点页面，使用户一键stake，轻松享受POS挖矿收益。imToken 已和星火矿石、Hashquark就[COSMOS节点质押合作](https://mp.weixin.qq.com/s?__biz=MzIwMzQ0MTUxMQ==&mid=2247485859&idx=1&sn=a080c1aa2c3b9a6c5b553708fcb2d866&chksm=96ce1daba1b994bd55658b63943c83a3b53ee4785ad933b29c0578b81ec35b00523357cb6a38&mpshare=1&scene=1&srcid=&key=61f0b9c71b4bc474fd17732776543336f0fcdaf1d615cad18186d7968e4b44cf4a15027f60d615fbaa3b699514c9f8ef5f6c329092f1c9bc595eb30b9eb97ad5841fecefb8cecf728d55c742bfe7ac57&ascene=1&uin=MTYyMjAwNTU0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=lHvv7ThELvG2t5z8fXonoaJCPYkn%2BlkE1cCKRUxKoguNW35OWKKWnjYKTAruyoug)，为用户免除质押手续费并带来额外收益。
+- **应用** [whisp 让远程协作付工资变得易如反掌](https://whisp.money/): 有没有试过一个定期的工作支付系统来支付全球员工的工资，甚至在不知道对方身份的情况下？哈哈，whisp就让这个变得可能。你可以雇佣任何人，也可以被任何人雇佣，只要使用一个邮箱并使用whisp，搞定！
+- **游戏** 腾讯的区块链游戏[一起来捉妖](<https://zhuoyao.qq.com/main.shtml>)已于4月11日开启公测，这是一款LBG+AR的游戏，引起了大家的热烈关注。游戏中的猫市场类似于之前的迷恋猫玩法，每一只猫咪都是独一无二的。目前整个游戏基于腾讯的联盟链开发，但是可以预见的是如果游戏持续火热，猫咪的场外交易市场也会被开拓。
+- [mini-dapps](https://nfty.substack.com/) BrianFlynn在[NFTY](https://nfty.substack.com/p/nfty-46-mini-dapps) 最新一期提出的概念，提到了可以借助以太坊等底层作为结算层，利用易用的调用接口，来开发一些迷你的小应用，并在文中给出了一些例子。也许这种形态能类似小程序一样，帮助用户更顺畅、碎片化地使用Dapp程序。
 
 
   
@@ -85,15 +85,14 @@
 
 	- [BNB labs 向三家初创公司提供资金](币安孵化器向三家区块链初创项目提供资助Ironbelly、HOPR和Kitsune):这三个项目都是集中在区块链服务上的 Ironbelly 和Kitsune是钱包项目、HOPR则是致力于隐私保护通讯协议开发的。
 	- [BNB 第七次销毁计划实施](https://www.binance.com/en/blog/324754449348550656/7th-Binance-Coin-Burn): 币安这次销毁总共829888个BNB。总体销毁对应当时是1560万美元；这次公告特别有趣，CZ做了一次整体回顾和展望，包括launchpad、DEX和法币交易所。
-	- **今日关注**[BNB 新加坡法币交易所正式启动](https://cointelegraph.com/news/binance-singapore-launches-but-offers-just-one-trading-pair-report)：币安新加坡法币的交易已经可以了，[交易所网站](https://www.binance.sg/cn)。当然目前只有一个交易对，新加坡元🇸🇬换BTC，不过有了这个入金渠道，之后也很顺畅了。
+	- [BNB澳大利亚法币BTC OTC交易量创新高](https://binancelite.com/):币安在澳大利亚推出的点对点BTC当面交易的量不断在放大。可以看到BNB对于BTC的推动。
 
 
 
 - **Staking POS**：
 业内另一个趋势是由于以太坊的带动，很多项目设计之初就是POS方式的，随着越来越多的项目主网上线后，形成了一股节点staking的风潮，甚至有专门做节点生意的公司获得了融资。我们现在会逐步整理staking相关的机构和项目，以及相关的介绍文章和资源供大家参考。
-  - 🌹🌹**PIN** **NGC StakeX Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
-  - **今日关注** [干货 | Staking Economy 运营专家完全手册](<https://www.chainnews.com/articles/856811879389.htm>) Wetez作为staking服务提供商，详细的剖析了普通用户参与staking需要了解的各方面因素，并且给出了7种产品设计思路，建议所有想要参与staking的小伙伴们仔细阅读。
-  - [Tezos的烘焙Staking,过去现在和未来](https://www.chainnews.com/articles/522962247929.htm): Tezos这个项目从非常著名到撕逼后的消沉再到当下成为staking economy的扛旗者，他的LPOS的算法及自治系统和新的编程语言Michelson，小伙伴有多少熟悉呢？这篇文章深入浅出的为我们揭开tezos的神秘面纱和最新进展。
+  - 🌹🌹**今日关注** [**NGC StakeX Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
+  - **今日关注** [Tezos的烘焙Staking,过去现在和未来](https://www.chainnews.com/articles/522962247929.htm): Tezos这个项目从非常著名到撕逼后的消沉再到当下成为staking economy的扛旗者，他的LPOS的算法及自治系统和新的编程语言Michelson，小伙伴有多少熟悉呢？这篇文章深入浅出的为我们揭开tezos的神秘面纱和最新进展。
   - [Stakingrewards](https://stakingrewards.com/global-charts)：这个工具能够帮助我们评估staking哪个token更有价值。非常酷！谢谢@123的贡献~
   - 知名节点运营商：[Staked.us](https://staked.us/), [Wetez](https://www.wetez.io/), [火币矿池](https://www.huobipool.com/pos/)， [P2P Validator](https://p2p.org/), [Stakewith.us](https://stakewith.us/)
   - [链闻整理的目前所有节点运营商](https://www.block123.com/zh-hans/feature/proof-of-stake)
@@ -112,10 +111,8 @@
 ### 近期深度文章
 
 - **开放式金融专题**
-	- **今日关注** [Alethio为你展示Defi最主要的协议和Defi整个生态](https://medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191): alethio在以太坊数据分析和呈现上的工作可圈可点，这篇刚刚出炉的报道让我们更多了解了Defi中主要项目的细节情况，尤其是其中的MakerDao 和Compound的overlap分析，让甜甜圈比较吃惊的是目前两个项目总共只有1万多的用户，同时Compound用户的43%和MakerDao有交集。一方面甜甜圈很容易贡献了一份微薄的力量，另一方面也觉得纵然是热火朝天的Defi，目前的utility也不强。
-	
-	- **今日关注** [MakerDAO 连续加息：目的、政策效果、去中心化货币市场的影响](<https://www.chainnews.com/articles/614962590837.htm>)  在开放式金融领域，Maker与其创造的DAI一直处于暴风眼的位置，最近MakerDAO为了维持DAI的价格稳定持续调整利率，现在已经调整至14.5%，但从效果来看收效甚微。潘超在此文中做出了一些解读和解释。
-	- [“开源“的财富：链上数据是一座被忽视的金矿](https://mp.weixin.qq.com/s/ZlOZd2cwPCyKaImblIKgBA) 从链上数据的潜在应用场景来看未来这个领域的天花板，并且介绍了一些当下主流的数据提供商，包括Kaiko,Messari,Coinmetrics,Chainalysis, Elliptic,Neutrino，数据团队的伙伴可以关注。
+
+	- **今日关注** [“开源“的财富：链上数据是一座被忽视的金矿](https://mp.weixin.qq.com/s/ZlOZd2cwPCyKaImblIKgBA) 从链上数据的潜在应用场景来看未来这个领域的天花板，并且介绍了一些当下主流的数据提供商，包括Kaiko,Messari,Coinmetrics,Chainalysis, Elliptic,Neutrino，数据团队的伙伴可以关注。
 
 	- [开放式金融全景图](https://www.chainnews.com/articles/167064935872.htm): 这篇文章实际上是在讲Defi的全景图。甜甜圈🍩认为，开放式金融远远不是Defi。不过对于Defi，这篇文章非常好介绍了整个生态。
 
@@ -123,6 +120,7 @@
 
   - [简单的 SQL 数据库将成为历史，开放性金融协议就是未来](https://www.chainnews.com/articles/397016215262.htm)  文章提出很关键的一点，开发性金融可以降低金融技术创业者的门槛，从而带来更蓬勃的生态。有兴趣的还可以阅读下[原文](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)
 
+  
 
 	- [MakerDAO 想在利率上打败 Compound 从而减少 Dai 的创造，理论上不太可能](<https://www.chainnews.com/articles/213782292387.htm>) 认同此文观点，甜甜圈认为Makerdao通过无限制的加大DAI的借款利率去调整DAI的供应是有问题的。问题出在现在降低DAI的供应的主动权在创造CDP的个人手中。如果他们没有足够的意愿去取消CDP，那么市场上的DAI的供应就无法下降。
 	- [DeFi的关键数字：Dai的利率该如何设定？](https://www.chainnews.com/articles/619711872686.htm) 本文提出了，在越来越多的借贷产品基于dai进行开发的情况下，借鉴传统信贷市场的经验，为未来的借贷产品设计利率的一些思路和建议。
