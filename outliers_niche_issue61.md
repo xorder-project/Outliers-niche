@@ -1,4 +1,4 @@
-## Outliers' niche 另类生境 2019-5-6 第62期
+## Outliers' niche 另类生境 2019-4-29 第61期
 
 #### X-Order 通证分析甜甜圈🍩 出品~😁😆😝 
 
@@ -11,48 +11,46 @@
 
 | btc | 数据 | 趋势|
 |---:|:--:|:--|
-| [Hashrate](https://www.blockchain.com/charts/hash-rate)| **4397** — **5811**万 TH/s|周末持平，波动**剧烈**|
-| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | 933 — **1268** 万美元 | 周末持平，波动扩大|
-| [总转账费用](https://www.blockchain.com/charts/transaction-fees) |  **61** - **85** BTC | 周末持平，波动收缩|
+| [Hashrate](https://www.blockchain.com/charts/hash-rate)| **4322** — 5148万 TH/s|周末平稳，波动收缩|
+| [挖矿收入](https://www.blockchain.com/charts/miners-revenue) | **933** — 1185 万美元 | 周末平稳，波动收缩|
+| [总转账费用](https://www.blockchain.com/charts/transaction-fees) |  54 - 131 BTC | 周末**回落**，波动不变|
 
 
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| 147 — **156** TH/s| 周末上涨，波幅平稳|
-|[转账笔数](https://etherscan.io/chart/tx)|**52** — 71万|周末持平，波幅平稳|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| **322** — **779** eth| 一周持平，波幅**剧烈** |
+|[Hashrate](https://etherscan.io/chart/hashrate)| 147 — 152 TH/s| 周末平稳，波幅平稳|
+|[转账笔数](https://etherscan.io/chart/tx)|**56** — 72万|周末**回落**，波幅不变|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| **264** — **401** eth| 一周平稳，波幅**增加** |
 
 
 
 ### 热锅上的项目🔥
 
 - **市场预警 IEO** 中心化交易所依托其本身的信任，开始进行了一场基于交易所的通证发行比赛。区块律动做了一个[全面的汇总](https://www.theblockbeats.com/ieo)，近阶段会有更多的项目选择IEO。快钱总是不长久的，甜甜圈🍩友情提醒：**天下没有持续的免费午餐。**
-- 已经IEO的项目
-    - 数据交换协议项目Ocean protocol(Ocean)在5月1日零点在Bittrex上线IEO之后，价格一路破发，目前价格为IEO价格的25%左右。整个市场对于IEO的热度已经降到极低水平。
-    - 本体孵化的电影流通平台项目MovieBlock(MBL)在5月6日12点在Gate开启交易，短短半小时内价格从翻倍到破发，许多投资者已经开始维权。
+- **市场预警** [**Maker Dao**](https://www.scribd.com/document/407743542/Zandy-s-Story): 以太坊的治理问题开始扩展到了其Defi的生态，MakerDao 的CTO Andy一直是自由软件的支持者。ETH的治理确实承压太多了，没有一个分歧解决机制，理想就很难持续推进，特别注意各个项目的治理风险~
+- **市场观察** [Tether再爆雷，稳定币格局将转变？](https://www.chainnews.com/articles/718595897599.htm) 整个周末都是关于Tether和纽约检方的撕逼大战。一方面从场外溢价来看，此次恐慌情绪并没有去年十月份严重，场外最低6.72（0溢价）目前平稳于6.8（1%溢价）。但Tether的雷还未知会如何发酵。另一方面，短期内市场对稳定币仍然是刚需，PAX等其他稳定币是否会借机抢占份额（[Paxos CEO 揭秘 PAX 如何备战稳定币大战及可能的商业模式](https://www.chainnews.com/articles/742684595671.htm)）其他公链如何利用稳定币增加其金融底层的应用基础（[Paxos 与 Ontology 基金会合作发布1亿枚稳定币](https://www.theblockbeats.com/index/index/info/id/295/inf_id/1157)），稳定币之间由于场内流动性的不同，会如何从微观影响市场，甜甜圈🍩会持续关注。
+- [IOAT 和捷豹合作车载智能钱包](https://blog.iota.org/jaguar-land-rover-fc7f6b029053): IOAT在沉寂了很久之后PR发出和捷豹合作开发智能钱包，这种智能钱包可以在车上提供在线服务的交易功能，包括送发路段信息、交通信息等等，实际上这次合作开发的是一个积分系统，收到积分可以换一些服务或者咖啡☕️。区块链和物联网的结合我们一起非常期待真正的进展~ 
+- [Ocean Protocol](<https://oceanprotocol.com/>) 以太坊生态上著名的数据交换类项目，与Enigma和Messari项目都有合作，4月8日已经发布测试网。30日在Bittrex上开启IEO，出售5640w代币，售价0.12美金，其流通市值为3769w美金。而且其发文调整了前期参与者的价格，并且调整了其通证分配模型，具体参照[此文]([https://medium.com/ocean-protocol-international/ocean-protocol%E5%9C%A8bittrex-international%E5%B9%B3%E5%8F%B0%E9%A6%96%E6%AC%A1%E4%BA%A4%E6%98%93%E5%8F%91%E8%A1%8C-ieo-53d41a48ea8a](https://medium.com/ocean-protocol-international/ocean-protocol在bittrex-international平台首次交易发行-ieo-53d41a48ea8a))。IEO逐步冷却，甜甜圈提醒小伙伴们谨慎参与。
+- **特别警惕** [Dogi游戏社区一文揭露吸金无数的**贝尔链**。](https://www.chainnews.com/articles/093040895786.htm)贝尔链是一个游戏平台，旗下有《超级富豪》《环球城》等游戏，本质上是一个传销/资金盘项目。伴随着游戏的陆续上线和节点计划启动，贝尔链短短几个月从100多的市值现在踏入市值前30，背后传销团队之强大实在令人叹为观止，请小伙伴们特别警惕传销盘，附上[92个传销盘名单](https://zhuanlan.zhihu.com/p/58390628)
 
-- 即将IEO的项目
-    - 分布式地图网络项目GoWithMe(GMAT)5月8日上线Gate Startup，依旧采取[申购按比例分放额度模式](https://www.gateio.io/startup/6)。最近Gate上的IEO表现都不好，投资需谨慎。
-    - 隐私计算项目Tias(TRY)5月14日上线KuCoin Spotlight,申购采取[抽奖模式](https://www.kucoin.com/news/announcement-of-trias-try-token-sale-on-kucoin-spotlight)。
-    Trais介绍：互联网解决了效率问题，但不能保障应用程序在执行过程中正确地处理相应的数据。针对这一问题，Trias通过TEE和图计算技术，成功构筑起任意通用应用程序之间的信任关系，支持更广更通用的应用场景，从而解决数据中心内部的安全痛点。Trias包括三套子系统：Leviatom可信算力网络，旨在构造高效率，高稳定，高可扩展性的共识算法，确保任意应用程序正确执行；Prometh可溯源软件开发框架 ，用以赋予原生应用程序以智能合约级的安全可信强度，确保程序其自身安全；MagCarta合约体系，实现全平台原生程序的统一编程和调度，协调各方利益，以经济手段确保生态安全可信。Trias的背后，是一支优秀的团队。自2007年起，Trias核心团队便在可信计算方向进行深度学术科研积累。创始人兼CEO阮安邦是牛津大学计算机博士、博士后，曾参与包括FP7欧盟重大项目在内的多个可信云、可信大数据平台方向项目，并担任国际一流学术期刊JACM可信云方向审稿人。团队核心成员多毕业于牛津大学、北京大学等国际知名学府，曾供职于中国航天、加拿大皇家银行、英特尔、甲骨文等集团机构，拥有雄厚的技术实力与丰富的工作经验。
 
-- **市场观察** [**Maker Dao**](https://www.scribd.com/document/407743542/Zandy-s-Story): 以太坊的治理问题开始扩展到了其Defi的生态，MakerDao 的CTO Andy一直是自由软件的支持者。ETH的治理确实承压太多了，没有一个分歧解决机制，理想就很难持续推进，特别注意各个项目的治理风险~当然也有有利的一面，目前MakerDao 的[CDP Saver](https://cdpsaver.com/dashboard/manage)上线了，使得MakerDao的质押变得容易。
-- **市场观察**：Bitfinex和USDT：自tether自8.5亿美金被冻结遭到不信任投票以来，事情仍然在发酵。赵东发布公告意欲通过发行10亿美金平台币来填平窟窿，并发布了白皮书，从白皮书中我们看到bitfinex2018年利润达到4亿美金以上（关于此次IEO的分析[点击](https://xcong.com/articles/3522762)），立刻提振了市场对于usdt的信心，场外溢价快速回归。而在盘面上，usdt等稳定币对市场的影响力巨大，在usdt危机与企稳摇摆之间以及btc恰逢5600到6000的压力位，市场开始在usdt和btc进行谁更避险的游戏。甜甜圈表示，此次USDT的危机可能依然能过去，但整个数字货币市场承载在如此不稳定的稳定币上的问题，终归是一颗隐雷。有兴趣的同学可以关注甜甜圈将要发布的morning call，我们从资金角度深度角度场内外稳定币指标变化的意义。
+### 嗅觉: 
 
-### 嗅觉:  
-
-- [musk和V神隔空对话](https://www.chainnews.com/articles/875429043463.htm)和以及[facebook稳定币libra细节公开](https://www.chainnews.com/articles/666700750394.htm)：“狗狗币前CEO”马斯克在推特生和V神隔空喊话，V神回答基本上把以太坊应用集中在去中心化金融、去中介化身份系统、去中介化组织形态、去中介化数据和网络连接市场以及去中心化 DNS 系统方面。同样在劳动节，华尔街日报公布了facebook稳定币的细节。甜甜圈🍩很开心的看到，传统领袖式KOL们逐渐对数字货币的兴趣，其潜移默化地“在线喊单”，将使大众对数字货币越来越了解。
-
+- [纳斯达克旗下研究平台已添加Bitwise加密指数](https://www.bitwiseinvestments.com/indexes/Bitwise-10)：纳斯达克旗下研究平台Dorsey Wright Research现已添加Bitwise加密指数，同时还推出了大盘、中盘、小盘股指数。此前也有推特爆料其通过TDAmeritrade账户在纳斯达克平台上买入了1个比特币（后回应是测试网）。不论如何，主流金融市场确实越来越关注加密货币市场了。此外，传统证券商和加密交易所的合作可能是一种值得关注的资金流入渠道。
 
 
 
 ### Dapp未来的应用: 
 
-- **应用** [dy/dx 平台上线](https://trade.dydx.exchange/) 期待已久的 dydx终于上线了，这个以太坊上基于智能合约的衍生品交易市场。在这个平台可以加杠杆，也可以赚利息。甜甜圈正在测试这个平台的可玩性。小伙伴可以一起参加哈！
-- **应用** [好用的Defi Exlporer上线](https://defi.dapp.review/)Dapp Review最新开发的Defi Explorer，可以清晰看到市场上主流Defi Dapp的使用情况。此外，还有另一个Defi Exlporer是[DefiScan](https://defiscan.io/)，由[My Crypto](https://mycrypto.com/)开发，可以通过钱包地址查询该地址Defi Dapp使用情况。还有一款[DAPPTOTAL](https://www.dapptotal.com/defi)，总体数据和dapp review开发的explorer差不多，似乎要稍微全一点，也作为数据源收藏着。
-- **游戏** [新的Loom SDK项目Battle Racers上线并开启预售](https://battleracers.io)，这是一款动感十足的街机游戏，该游戏与[Decentraland](https://decentraland.org/)合作，一旦Decentraland向公众开放，Battle Racers也会同步上线。
-- **游戏**Dapp Review详细调查Tronbank合约被盗的罗生门事件，[上集](https://mp.weixin.qq.com/s/aInEaYdS9X7HP7FbzWl6AQ)，[下集](https://mp.weixin.qq.com/s/9Cl6-ZmAi-U3Qi6cPVZJxQ)，揭秘价值427万RMB的TRX被盗后的内幕。目前Dapp市场乱象丛生，开发者、智能合约审计者都有可能因为自己创造私利而做出违法的事情。
+- **应用** [TurmsAMT](https://ipfs.io/ipns/messagetransport.turmsanonymous.io/#): 这是基于ipfs做的一款**飞鸽传书**。不同于email，和即时聊天工具，每次信息都是匿名的，同时都是高成本的。这个项目设置了两个费用，收message的人可以设置高昂的spam费用以阻止别人给他扔垃圾信息。同时期望主动收获有用信息也需要付费。
+
+
+- 全球最大的**游戏资产交易平台WAX**主网发布在即，并公布**[Genesis Block Member计划](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years)**，在6月30日到8月30日期间参与token swap的都可以参与GBM计划，并将在3年内获得1倍的WAX收益。
+
+
+
+
   
 
 ## Habitat 另类生境之栖息地
@@ -68,16 +66,19 @@
   - [tippin.me](https://tippin.me/dashboard.php?s=extension): tippin.me和twitter合作，现在通过tippin插件和lightning网络，可以在twitter上直接给小费。这种直接镶嵌在内容上的支付接口甜甜圈非常看好！👍
 
 
+
+
 - **ETH 治理危机**：[以太坊twitter互抨](https://www.chainnews.com/articles/983362656010.htm): 对于以太坊的支持者，今年可以说是非常不同的一年，虽然去年价格下跌，但是愿景的一致让这些人持续看好以太坊，但是今年却问题出现了，核心开发者开始一个又一个出问题，年初的Afri Schoedon的离开社交媒介，到波卡和ETH生态的位置问题，再到Lane Rettig对于以太坊基金会害怕做决定，核心开发者也害怕做决定，以太坊的治理就是一团散沙，已经失败的断言，再到Ameen Soleimani 对于 Lane Rettig 的抨击，这一切来得太快，让以太坊整个生态越来越不稳定。
 
 
-- 🌹🌹**EOS 生态**: [REX 正式上线](https://eosauthority.com/rex/statistics): REX (Resource Exchange) 是BM早在2018年8月就提出来的资源交易所，现在REX正式上线了！我们现在可以实时监控REX的变化情况，就如同我们监控Defi网络一样。甜甜圈🍩以为，旨在降低DAPP的资源使用成本，提高投票率，解决资源空置的问题的REX使得EOS可以通过Staking获得收益，目前已抵押的EOS接近5500万个，共产生租赁收入693个EOS，租售比2%。REX成为EOS生态的开放金融的入口。虽然从利息的年化收入来看，由于目前EOS资源的需求还较低，无法和其他pos币相比。但其收入代表的是真实需求的收入，更具有参考意义。REX可以使得资源租赁这件事情变得公开透明，相对于使用算力挖矿的网络，EOS对于系统资源的占用和分配想得很明白。单单靠单一的共识是无法搭建负责的经济网络的，唯有通过公开透明市场的方式才行。希望可以看到EOS应用能够进一步爆发。
+- 🌹🌹**EOS 生态**: [REX 即将上线](https://eosauthority.com/rex/): REX (Resource Exchange) 是BM早在2018年8月就提出来的资源交易所，期望EOS生态中的持币者可以将多余的EOS贡献出来，租给那些需要的人使用。甜甜圈🍩以为，这个交易所可能成为EOS生态的开放金融的入口。特别赞的一点是EOS Authority 对于这个proposal的流程的公开透明，本来REX可以早些投票通过的，但是因为一些节点没有投，使得推迟了，但是公开的信息使得EOS生态都很安心，也能够对于REX出现保有信心。
 
-- 🌹🌹**EOS 生态**：[EOS4%利息可能被销毁](https://www.bishijie.com/kuaixun_283360) 由EOS Nation于4月22日发起的销毁eos.saving中3400万EOS提案第一步“论坛公告”阶段BP多签通过。若该公告顺利通过，意味着至少有15个BP同意并为该公告背书，意味着有很大可能eos.saving中3400万EOS将会被销毁。EOS原本每年将增发5%，后改为其中4%锁定在eos.Saving中，如何使用未定。此次实现销毁，代表了在节点无法动用这部分利息的情况下，节点们共同减少供给，提振社区信心的共识。
+- 🌹🌹**EOS 生态**：[丢失的账户怎么办](https://eosauthority.com/approval/view?scope=eosdacserver&name=createlost): EOS生态目前在解决一个问题，就是丢失账户寻回的问题。很多人都觉得区块链中丢失账户秘钥是再也找不回来了，但这是一种误解。其实只要能够找到一种办法达成共识，丢失的账户是可以找回来的~但是在没有一个治理框架下，这种共识是很难被达成的。而EOS这里的尝试其实意义非凡！
 
 - **Binance 生态**：
+在IEO的热潮起来的时候，Binance作为引领这次IEO的交易所更被推到了风口，Binance 是否真得能够成功将Dex推出来呢？目前成为Binance最核心的问题。
 
-    - **今日关注**[Binance DEX最新进展](https://www.binance.org/en/trade/): Binance 着力推出的DEX目前不温不火，已经上线了三个币种，整个交易量并不活跃，由于近期小币种的回调，市场缺乏对于上线币种的关注。迁徙binance 主链的币种目前增加到了5个是第五个项目。[AtomicWallet](https://twitter.com/atomicwallet/status/1123350210091073537)在申请中，可以在社区的发帖中可以查看, [Aeron](https://twitter.com/aeron_aero/status/1124689545155567616)则是第五个从ETH迁移的项目，但是市场反应并不大。具体可以参考区块律动的这篇[总结文章](https://www.theblockbeats.com/index/index/info/id/349/inf_id/1218?from=timeline&isappinstalled=0)
+	- [Binance未来的发展路径](https://www.binance.com/en/blog/300213018722623488/): 这篇是Binance CZ的AMA，其中提到了Binance会使用Cosmos的Tendermint Protocol的Fork了实现DEX。同时test版本在近一周就会上线，我们可以期待~ 
 	
 	- [Binance真实交易量超过其他交易所总和](https://twitter.com/heyibinance/status/1112571171302629376): 虚增交易量成为被bitwise挖出来之后，那些具有真实交易量的交易所就浮出水面，而binance则是拥有真实交易量的翘楚，何一twitter的图确实让我们看到binance在真实交易量上的领袖地位。
 
@@ -85,12 +86,13 @@
 
 	- [BNB 第七次销毁计划实施](https://www.binance.com/en/blog/324754449348550656/7th-Binance-Coin-Burn): 币安这次销毁总共829888个BNB。总体销毁对应当时是1560万美元；这次公告特别有趣，CZ做了一次整体回顾和展望，包括launchpad、DEX和法币交易所。
 	- [BNB 新加坡法币交易所正式启动](https://cointelegraph.com/news/binance-singapore-launches-but-offers-just-one-trading-pair-report)：币安新加坡法币的交易已经可以了，[交易所网站](https://www.binance.sg/cn)。当然目前只有一个交易对，新加坡元🇸🇬换BTC，不过有了这个入金渠道，之后也很顺畅了。
-	- [区块律动汇总币安去中心化交易所所有上线项目](https://www.theblockbeats.com/index/index/info/id/349/inf_id/1218?from=timeline&isappinstalled=0)：截止到5月5日，共有8个项目上线币安去中心化交易所，表单也将持续更新。
+
+
 
 - **Staking POS**：
 业内另一个趋势是由于以太坊的带动，很多项目设计之初就是POS方式的，随着越来越多的项目主网上线后，形成了一股节点staking的风潮，甚至有专门做节点生意的公司获得了融资。我们现在会逐步整理staking相关的机构和项目，以及相关的介绍文章和资源供大家参考。
   - 🌹🌹[**PIN** **NGC StakeX Staking Economy治理机制分类研究**](https://mp.weixin.qq.com/s/HdkRQ2R7xlg6UxuDfjRduQ) 这是甜甜圈小伙伴的作品呢👍 NGC和X-Order对于Staking Economy的未来有很强的期待~
-  - [趋势 全新的社会信号：Staking 即服务！](https://www.chainnews.com/articles/843602917309.htm) 本文介绍了StaaS的一些案例和他们的特点，方便感兴趣的查阅
+  - **今日关注** [趋势 全新的社会信号：Staking 即服务！](https://www.chainnews.com/articles/843602917309.htm) 本文介绍了StaaS的一些案例和他们的特点，方便感兴趣的查阅
   - [干货 Staking Economy 运营专家完全手册](https://www.chainnews.com/articles/856811879389.htm) Wetez作为staking服务提供商，详细的剖析了普通用户参与staking需要了解的各方面因素，并且给出了7种产品设计思路，建议所有想要参与staking的小伙伴们仔细阅读。
   - [Tezos的烘焙Staking,过去现在和未来](https://www.chainnews.com/articles/522962247929.htm): Tezos这个项目从非常著名到撕逼后的消沉再到当下成为staking economy的扛旗者，他的LPOS的算法及自治系统和新的编程语言Michelson，小伙伴有多少熟悉呢？这篇文章深入浅出的为我们揭开tezos的神秘面纱和最新进展。
   - [Stakingrewards](https://stakingrewards.com/global-charts)：这个工具能够帮助我们评估staking哪个token更有价值。非常酷！谢谢@123的贡献~
@@ -111,9 +113,6 @@
 
 ### 近期深度文章
 
-- **跨链**
-    - **今日关注**[两万字全解 Polkadot 架构及下一代 DApp 开发技术](https://www.chainnews.com/articles/346896273320.htm) 这篇文章非常全面的解释了以太坊，Polkadot以及cosmos的架构，并且通俗的阐释了跨链中需要解决的技术问题和难点，让大家可以从一定高度宏观的看清整个跨链的目标和发展方向，推荐品读！
-    - **今日关注**[Polkadot 的起源与进化：超越以太与 Cosmos 的治理与设计](https://www.chainnews.com/articles/823184189353.htm) 似乎随着cosmos的主网上线以及和以太坊的竞争问题，Polkadot最近一直受到诸多关注。本文从历史，设计，共识，竞争对比方面全方位剖析了polkadot项目。
 - **开放式金融专题**
 	- [Alethio为你展示Defi最主要的协议和Defi整个生态](https://medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191): alethio在以太坊数据分析和呈现上的工作可圈可点，这篇刚刚出炉的报道让我们更多了解了Defi中主要项目的细节情况，尤其是其中的MakerDao 和Compound的overlap分析，让甜甜圈比较吃惊的是目前两个项目总共只有1万多的用户，同时Compound用户的43%和MakerDao有交集。一方面甜甜圈很容易贡献了一份微薄的力量，另一方面也觉得纵然是热火朝天的Defi，目前的utility也不强。
 	
@@ -134,9 +133,8 @@
 
 
 - **关于去中心化治理**
-    - **今日关注** [区块链治理道阻且长，Aragon一个月第二次被推向舆论浪尖](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDc0MQ==&mid=2650225978&idx=1&sn=b74f1a1fe93e02d3baa10331fd45bc9b&chksm=82d083c0b5a70ad661b1f4dc7a767884d3c0510e12c255d87ecb135090d28195bb0559eb4ed1&mpshare=1&scene=1&srcid=0505tb5EQabhjrsYxQkUSIcU&key=3fbd0ceb9aa7d60957bd163e77902707cce4ef9e6c1821dd0c3771e5d294b05fe052378d6d696fbb4ccde9bbddb44c9c80d0049eb13a8efabb26705ccc906e588f7330709e1666051ff763252cb86a47&ascene=1&uin=MTYyMjAwNTU0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=1%2FRK48Wx1lKQFGgdK1%2BWW%2FU0ynUwXt4x0ghlzGaMmtYfWzPCTdb74dgWMohHVDbj)。Aragon一直都是基于以太坊的优秀治理项目，但是最近对其的质疑声非常多。上个月被卷入以太坊和波卡的纷上周其治理投票的低参与度也引起讨论。5月2日，在Aragon的一个提案投票中，一个鲸鱼（大量代币持有者）在投票进行的最后时刻，以手上的筹码直接决定结果。而这里面牵扯到的是投票治理的富豪统治以及财阀操控问题，引炸舆论。
 
-	- [一位美国海军眼里的比特币：控制公地意味着控制商业，数字世界是比公海更大的公地](https://mp.weixin.qq.com/s/7cZSFDaVdY872BJmqr-A6A) 将比特币比作AK47，非常独特的思路。很欣赏其中的一句话，"当条件适合时，便宜和可扩展性会打败大型和集中式"。
+	- **今日关注** [一位美国海军眼里的比特币：控制公地意味着控制商业，数字世界是比公海更大的公地](https://mp.weixin.qq.com/s/7cZSFDaVdY872BJmqr-A6A) 将比特币比作AK47，非常独特的思路。很欣赏其中的一句话，"当条件适合时，便宜和可扩展性会打败大型和集中式"。
 
 	- [Vitalik 发文谈社区争议和 BSV 被下架：论言论自由](<https://www.chainnews.com/articles/557584755162.htm>)  比特币reddit版主的禁言政策以及是否需要抵制delistBSV这件事，V神从言论自由的角度谈了他个人对于自由，安全空间和公众空间的深刻理解，很有高度。原文参照[这里](<https://vitalik.ca/general/2019/04/16/free_speech.html>)
 
@@ -151,6 +149,8 @@
 
 
 - **合规进程** [关于加密货币版「豪威测试」框架，SEC 在向行业传递哪些信息？](<https://www.chainnews.com/articles/662022249136.htm>) SEC又对于证券型token有了新一轮的解读，发布了《数字资产投资合同分析框架》。该框架核心指出，如果一个数字资产项目他足够的去中心化，不受到AP（活跃参与者）的主导，那么它可以被认定为不是一个证券。甜甜圈还是非常认可现在的这个方向。
+
+
 
 
 
