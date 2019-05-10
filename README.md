@@ -114,8 +114,8 @@
 ### 近期深度文章
 
 - **跨链**
-    - **今日关注**[两万字全解 Polkadot 架构及下一代 DApp 开发技术](https://www.chainnews.com/articles/346896273320.htm) 这篇文章非常全面的解释了以太坊，Polkadot以及cosmos的架构，并且通俗的阐释了跨链中需要解决的技术问题和难点，让大家可以从一定高度宏观的看清整个跨链的目标和发展方向，推荐品读！
-    - **今日关注**[Polkadot 的起源与进化：超越以太与 Cosmos 的治理与设计](https://www.chainnews.com/articles/823184189353.htm) 似乎随着cosmos的主网上线以及和以太坊的竞争问题，Polkadot最近一直受到诸多关注。本文从历史，设计，共识，竞争对比方面全方位剖析了polkadot项目。
+    - [两万字全解 Polkadot 架构及下一代 DApp 开发技术](https://www.chainnews.com/articles/346896273320.htm) 这篇文章非常全面的解释了以太坊，Polkadot以及cosmos的架构，并且通俗的阐释了跨链中需要解决的技术问题和难点，让大家可以从一定高度宏观的看清整个跨链的目标和发展方向，推荐品读！
+    - [Polkadot 的起源与进化：超越以太与 Cosmos 的治理与设计](https://www.chainnews.com/articles/823184189353.htm) 似乎随着cosmos的主网上线以及和以太坊的竞争问题，Polkadot最近一直受到诸多关注。本文从历史，设计，共识，竞争对比方面全方位剖析了polkadot项目。
 - **开放式金融专题**
 	- **今日关注** [Defiprime](https://defiprime.com/Defi): Defi生态项目介绍的一个资料库，其中收录了很多Defi新项目，值得关注；
 	- [Alethio为你展示Defi最主要的协议和Defi整个生态](https://medium.com/alethio/the-defi-series-an-overview-of-the-ecosystem-and-major-protocols-da27d7b11191): alethio在以太坊数据分析和呈现上的工作可圈可点，这篇刚刚出炉的报道让我们更多了解了Defi中主要项目的细节情况，尤其是其中的MakerDao 和Compound的overlap分析，让甜甜圈比较吃惊的是目前两个项目总共只有1万多的用户，同时Compound用户的43%和MakerDao有交集。一方面甜甜圈很容易贡献了一份微薄的力量，另一方面也觉得纵然是热火朝天的Defi，目前的utility也不强。
