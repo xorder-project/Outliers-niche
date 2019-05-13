@@ -19,9 +19,9 @@
 
 |ETH | 数据 | 趋势|
 |--:|:--:|:--:|
-|[Hashrate](https://etherscan.io/chart/hashrate)| **154** — 156 TH/s| 一周平稳，波幅收缩|
-|[转账笔数](https://etherscan.io/chart/tx)|**62** — 71万|一周持平，波幅平稳|
-|[总转账费用](https://etherscan.io/chart/transactionfee)| **322** — **477** eth| 一周持平，波幅收缩 |
+|[Hashrate](https://etherscan.io/chart/hashrate)| 154 — **158** TH/s| 周末上涨，波幅平稳|
+|[转账笔数](https://etherscan.io/chart/tx)|**65** — **74万**|周末上涨，波幅平稳|
+|[总转账费用](https://etherscan.io/chart/transactionfee)| **366** — **428** eth| 周末持平，波幅收缩 |
 
 
 
