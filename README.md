@@ -136,7 +136,7 @@
 
 
 - **关于去中心化治理**
-    - [引介 | Moloch DAO：瓦解公司制](https://mp.weixin.qq.com/s/IeuURCBV6kDk9R6IWQkY9w) 甜甜圈之前就关注到过Moloch DAO这个新型的治理项目，最近貌似由于V神和Lubin的个人捐款又进入到大家的视线中。作为一种新型的社会治理实验，其能否达成其设定的目标，发挥聚集信仰者的作用。让我们拭目以待。
+    - [引介 Moloch DAO：瓦解公司制](https://mp.weixin.qq.com/s/IeuURCBV6kDk9R6IWQkY9w) 甜甜圈之前就关注到过Moloch DAO这个新型的治理项目，最近貌似由于V神和Lubin的个人捐款又进入到大家的视线中。作为一种新型的社会治理实验，其能否达成其设定的目标，发挥聚集信仰者的作用。让我们拭目以待。
     - [PoW和PoS大辩论：谁拥有真实的开放性？谁能远离热力学的终局？](https://mp.weixin.qq.com/s/sKipObE4G1towIuei29CmA) 这篇文章可以说是诞生于橙皮书的微信群中，非常精彩的指出了POS系统的一个根本问题——先发者的绝对优势。在各路人马的激辩中，从多方面论证了POS系统在这个点上实际是不如POW的，也让我们更好的思考区块链的本源应该是创造怎么样的一个系统。
     - [区块链治理道阻且长，Aragon一个月第二次被推向舆论浪尖](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDc0MQ==&mid=2650225978&idx=1&sn=b74f1a1fe93e02d3baa10331fd45bc9b&chksm=82d083c0b5a70ad661b1f4dc7a767884d3c0510e12c255d87ecb135090d28195bb0559eb4ed1&mpshare=1&scene=1&srcid=0505tb5EQabhjrsYxQkUSIcU&key=3fbd0ceb9aa7d60957bd163e77902707cce4ef9e6c1821dd0c3771e5d294b05fe052378d6d696fbb4ccde9bbddb44c9c80d0049eb13a8efabb26705ccc906e588f7330709e1666051ff763252cb86a47&ascene=1&uin=MTYyMjAwNTU0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=1%2FRK48Wx1lKQFGgdK1%2BWW%2FU0ynUwXt4x0ghlzGaMmtYfWzPCTdb74dgWMohHVDbj)。Aragon一直都是基于以太坊的优秀治理项目，但是最近对其的质疑声非常多。上个月被卷入以太坊和波卡的纷上周其治理投票的低参与度也引起讨论。5月2日，在Aragon的一个提案投票中，一个鲸鱼（大量代币持有者）在投票进行的最后时刻，以手上的筹码直接决定结果。而这里面牵扯到的是投票治理的富豪统治以及财阀操控问题，引炸舆论。
 
