@@ -47,7 +47,7 @@
 - [Consensus 2019](https://www.coindesk.com/events/consensus-2019): Consensus 2019 就要收尾了，之后会举行Digital Asset Summit，本次会议中德勤与IBM作为活动的赞助商，特别让人注目。会议以主要探讨通证的商业、监管、治理、项目问题，其主要议题有：代币发行、区块链游戏、企业联盟链、去中心化金融、区块链治理等、区块链采用等。其中Defi不断被提及、NEO的新计划、合规性问题的讨论。将近8000名与会者参会。
 - [bitmex爆仓监控机器人](https://twitter.com/BitmexRekt)近期bitmex行情波动剧烈，甜甜圈分享一个会自动播报爆仓信息的twitter小机器人给大家~
 - [数字货币最新监管文件发布](https://static1.squarespace.com/static/5ac136ed12b13f7c187bdf21/t/5cd48c3a9b747a4e717dc060/1557433405614/FinCEN+CVC+Guidance+FINAL.pdf) 5月9日，美国金融犯罪执法局（Financial Crimes Enforcement Network，简称 FinCEN）发布了一份新的“解释指南”。以说明其规定如何适用于虚拟货币进行货币传输的企业。这里附上的一个版本有点意思，是messari创始人Katherine Wu的注解版。另外这也有一份国内媒体的[解读](https://www.chainnews.com/articles/001562954888.htm)
-- [灰度投资Q1报告现实机构资金正在进场]（https://grayscale.co/digital-asset-investment-report-q1-2019/?utm_medium=social&utm_source=twitter&utm_campaign=2019q1report)灰度投资公布的Q1报告显示，1季度其产品资金流入增长40%，达4270万美金，99%进入了比特币信托，并且客户构成中对冲基金对比特币的风险敞口从不足100万美金提高到了2400万美金。考虑到其客户73%是机构客户，该报告显示出传统机构正对数字资产表现出兴趣并投入其中，且1季度的大幅抄底显示出传统机构资金体现出了“老钱”的智慧。
+- [灰度投资Q1报告现实机构资金正在进场](https://grayscale.co/digital-asset-investment-report-q1-2019/?utm_medium=social&utm_source=twitter&utm_campaign=2019q1report)灰度投资公布的Q1报告显示，1季度其产品资金流入增长40%，达4270万美金，99%进入了比特币信托，并且客户构成中对冲基金对比特币的风险敞口从不足100万美金提高到了2400万美金。考虑到其客户73%是机构客户，该报告显示出传统机构正对数字资产表现出兴趣并投入其中，且1季度的大幅抄底显示出传统机构资金体现出了“老钱”的智慧。
 
 
 
